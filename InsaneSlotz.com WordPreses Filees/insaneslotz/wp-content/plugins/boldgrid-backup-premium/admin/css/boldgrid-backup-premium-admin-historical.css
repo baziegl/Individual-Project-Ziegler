@@ -1,0 +1,21 @@
+.dashicons.dashicons-archive {
+	color: #c4963d;
+}
+
+.dashicons.dashicons-media-default {
+	color: #0073aa;	
+}
+
+.dashicons.dashicons-admin-page {
+	color: #0073aa;
+}
+
+/* Fix the padding for the "#" heading. */
+table.widefat thead td.check-column {
+	padding: 8px 10px;
+}
+
+/* Add a border between each of the version #'s found. */
+tr.top:not(:first-of-type) td {
+	border-top: 1px solid #ddd;
+}
