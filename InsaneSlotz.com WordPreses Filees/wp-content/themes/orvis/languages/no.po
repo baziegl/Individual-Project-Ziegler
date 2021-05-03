@@ -1,0 +1,205 @@
+# Translation of WordPress.com - Themes - Orvis in Norwegian
+# This file is distributed under the same license as the WordPress.com - Themes - Orvis package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-25 19:43:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: no\n"
+"Project-Id-Version: WordPress.com - Themes - Orvis\n"
+
+#: inc/wpcom-colors.php:121
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/wpcom-colors.php:244
+msgid "Links & Meta"
+msgstr "Lenker og meta"
+
+#: inc/wpcom-colors.php:288
+msgid "Borders & Details"
+msgstr "Kanter og detaljer"
+
+#: inc/wpcom-colors.php:27
+msgid "Background"
+msgstr "Bakgrunn"
+
+#: single.php:30
+msgid "Published in"
+msgstr "Publisert i"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:25
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Les mer %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/orvis/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Porteføljesidemal"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men intet passet med dine søkeord. Vennligst prøv igjen med andre søkeord."
+
+#: template-parts/content-page.php:27
+#: template-parts/content-portfolio-single.php:26
+#: template-parts/content-single.php:29 template-parts/content.php:35
+msgid "Page"
+msgstr "Side"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: single-jetpack-portfolio.php:30 single.php:39
+msgid "Previous post:"
+msgstr "Forrige innlegg:"
+
+#: single-jetpack-portfolio.php:29 single.php:38
+msgid "Previous"
+msgstr "Forrige"
+
+#: single-jetpack-portfolio.php:27 single.php:36
+msgid "Next post:"
+msgstr "Neste innlegg:"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: single-jetpack-portfolio.php:26 single.php:35
+msgid "Next"
+msgstr "Neste"
+
+#: page-templates/portfolio-page.php:87 template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Prøv å søke."
+
+#: page-templates/portfolio-page.php:77 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: page-templates/portfolio-page.php:35
+msgid "Edit"
+msgstr "endre"
+
+#: page-templates/portfolio-page.php:27 template-parts/content-page.php:23
+#: template-parts/content-portfolio-single.php:22
+#: template-parts/content-single.php:25 template-parts/content.php:31
+msgid "Pages:"
+msgstr "Sider:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:88 template-parts/content-page.php:38
+msgid "Edit %s"
+msgstr "Rediger %s"
+
+#: inc/template-tags.php:81
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:81
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:57
+msgid "Featured Post"
+msgstr "Fremhevet innlegg"
+
+#: inc/template-tags.php:81
+msgid "Leave a comment"
+msgstr "Legg igjen en kommentar"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:18 inc/template-tags.php:27 inc/template-tags.php:67
+#: inc/template-tags.php:73
+msgid ", "
+msgstr ", "
+
+#: inc/jetpack.php:112 inc/jetpack.php:206
+#: template-parts/content-portfolio-archive.php:32
+msgid "Older projects"
+msgstr "Eldre prosjekter"
+
+#: inc/jetpack.php:113 template-parts/content-portfolio-archive.php:33
+msgid "Newer projects"
+msgstr "Nyere prosjekter"
+
+#: inc/jetpack.php:114 template-parts/content-portfolio-archive.php:34
+msgid "Portfolio navigation"
+msgstr "Porteføljenavigasjon"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Gå til innhold"
+
+#: header.php:40
+msgid "Menu"
+msgstr "Meny"
+
+#: functions.php:154
+msgid "expand child menu"
+msgstr "trekk ut undermenyen"
+
+#: functions.php:155
+msgid "collapse child menu"
+msgstr "trekk sammen undermenyen"
+
+#. translators: If there are characters in your language that are not supported
+#. by Karla, translate this to 'off'. Do not translate into your own language.
+#: functions.php:122
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:49 header.php:42
+msgid "Primary Menu"
+msgstr "Primærmeny"
+
+#: functions.php:98
+msgid "Sidebar"
+msgstr "Sidekolonnen"
+
+#: footer.php:23
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:21
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s"
+
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://nb.wordpress.org/"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#. translators: %1$s: smiley
+#: 404.php:46
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Forsøk de månedlige arkivene. %1$s"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer om &ldquo;%2$s&rdquo;"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det ble tydeligvis ikke funnet noe her. Kanskje forsøke en av lenkene under eller et søk?"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "Mest brukte kategorier"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Auda! Den siden finnes ikke."

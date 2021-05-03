@@ -1,0 +1,249 @@
+# Translation of WordPress.com - Themes - Scrawl in Telugu
+# This file is distributed under the same license as the WordPress.com - Themes - Scrawl package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-27 11:56:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: te\n"
+"Project-Id-Version: WordPress.com - Themes - Scrawl\n"
+
+#: content.php:35
+msgid "Featured"
+msgstr "ప్రదర్శితం"
+
+#: single.php:17
+msgid "Next post"
+msgstr "తర్వాతి టపా"
+
+#: single.php:17
+msgid "Previous post"
+msgstr "గత టపా"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "వెతుకుడు ఫలితాలు: %s"
+
+#: inc/template-tags.php:275
+msgid "All %s posts"
+msgstr "%s టపాలు అన్నీ"
+
+#: inc/template-tags.php:182
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:120
+msgid "Archives"
+msgstr "భాండారం"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:118
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:114
+msgid "Archives: %s"
+msgstr "భాండాగారాలు: %s"
+
+#: inc/template-tags.php:111
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "సంభాషణలు"
+
+#: inc/template-tags.php:109
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "ఆడియో"
+
+#: inc/template-tags.php:107
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "స్థితులు"
+
+#: inc/template-tags.php:105
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "లంకెలు"
+
+#: inc/template-tags.php:103
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "ఉల్లేఖనలు"
+
+#: inc/template-tags.php:101
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "వీడియోలు"
+
+#: inc/template-tags.php:99
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "బొమ్మలు"
+
+#: inc/template-tags.php:97
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "గ్యాలరీలు"
+
+#: inc/template-tags.php:95
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "ఎసైడ్లు"
+
+#: inc/template-tags.php:92
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:92
+msgid "Day: %s"
+msgstr "రోజు: %s"
+
+#: inc/template-tags.php:90
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:90
+msgid "Month: %s"
+msgstr "నెల: %s"
+
+#: inc/template-tags.php:88
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:88
+msgid "Year: %s"
+msgstr "సంవత్సరం: %s"
+
+#: inc/template-tags.php:86
+msgid "Author: %s"
+msgstr "రచయిత: %s"
+
+#: inc/template-tags.php:84
+msgid "Tag: %s"
+msgstr "టాగు: %s"
+
+#: inc/template-tags.php:82
+msgid "Category: %s"
+msgstr "వర్గం: %s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "టపా మార్గదర్శకం"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "కొత్త టపాలు"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "పాత టపాలు"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "టపాల విహరణ"
+
+#: inc/extras.php:103
+msgid "Cancel reply"
+msgstr "స్పందనను రద్దుచేయి"
+
+#: inc/extras.php:67
+msgid "Page %s"
+msgstr "పేజీ %s"
+
+#: inc/customizer.php:20
+msgid "Theme"
+msgstr "రూపం"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "విషయానికి వెళ్ళండి"
+
+#: functions.php:49 header.php:25
+msgid "Primary Menu"
+msgstr "ప్రధాన మెనూ"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "అలంకారం: %2$s రూపొందించిన %1$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "%s‌చే సగర్వంగా శక్తిమంతం"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:21
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "చదవడం కొనసాగించండి <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:39 content.php:41
+msgid "%"
+msgstr "%"
+
+#: content-single.php:39 content.php:41
+msgid "1"
+msgstr "1"
+
+#: content-single.php:39 content.php:41
+msgid "0"
+msgstr "0"
+
+#: content-page.php:25 content-single.php:42 content.php:44
+msgid "Edit"
+msgstr "మార్చు  "
+
+#: content-page.php:18 content-single.php:18 content.php:24
+msgid "Pages:"
+msgstr "పేజీలు:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "మీరు దేనికోసం చూస్తున్నారో మేం కనుక్కోలేకపోయాం. వెతికితే బహుశా దొరకవచచ్చు."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "క్షమించండి, మీరు వెతికిన పదాలకు ఏమీ దొరకలేదు. దయచేసి వేరే కీపదాలతో మళ్ళీ ప్రయత్నించండి."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "మీ మొదటి టపాను ప్రచురించడానికి సిద్ధంగా ఉన్నారా? <a href=\"%1$s\">ఇక్కడ మొదలుపెట్టండి</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "ఏమీ దొరకలేదు"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "వ్యాఖ్యలను మూసేసారు."
+
+#: comments.php:50
+msgid "Newer Comments"
+msgstr "కొత్త వ్యాఖ్యలు"
+
+#: comments.php:49
+msgid "Older Comments"
+msgstr "పాత వ్యాఖ్యలు"
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr "వ్యాఖ్యల మార్గదర్శకం"
+
+#: comments.php:39
+msgid "Reply"
+msgstr "స్పందించు"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ఈ చిరునామాలో ఏమీ ఉన్నట్టులేదు. బహుశా వెతికి చూస్తారా?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "అయ్యో! ఆ పేజీ కనబడలేదు."

@@ -1,0 +1,390 @@
+# Translation of WordPress.com - Themes - Sela in Russian
+# This file is distributed under the same license as the WordPress.com - Themes - Sela package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-25 14:39:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: WordPress.com - Themes - Sela\n"
+
+#: inc/wpcom-colors.php:38
+msgid "Main Menu Background, Links, Accents"
+msgstr "Фон главного меню, ссылки, оттенки"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:145
+msgid "Continue reading %s"
+msgstr "Читать далее %s"
+
+#: functions.php:169
+msgid "Third Front Page Widget Area"
+msgstr "Третья область главной страницы"
+
+#: functions.php:161
+msgid "Second Front Page Widget Area"
+msgstr "Второй виджет главной страницы"
+
+#: functions.php:153
+msgid "First Front Page Widget Area"
+msgstr "Первый виджет главной страницы"
+
+#: functions.php:145
+msgid "Third Footer Widget Area"
+msgstr "Третья область подвала"
+
+#: functions.php:137
+msgid "Second Footer Widget Area"
+msgstr "Вторая область подвала"
+
+#: functions.php:129
+msgid "First Footer Widget Area"
+msgstr "Первая область подвала"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/sela/page-templates/grid-page.php
+msgid "Grid Page"
+msgstr "Страница-сетка"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/sela/page-templates/full-width-page.php
+msgid "Full Width Page"
+msgstr "Страница на всю ширину"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/sela/page-templates/front-page.php
+msgid "Front Page"
+msgstr "Главная страница"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/sela/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/sela/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/sela/style.css
+msgid "Sela is not your typical business theme. Vibrant, bold, and clean, with lots of space for large images, this theme will look great on all devices, from desktop to mobile."
+msgstr "Sela необычная бизнес тема. Цветная, смелая и чистая, с достаточным пространством для больших картинок, эта тема будет отлично смотреться на всех ваших устройствах, от десктопа до мобильного."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/template-tags.php:428
+msgid "Archives"
+msgstr "Архивы"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:426
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:417
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Аудио"
+
+#: inc/template-tags.php:422
+msgid "Archives: %s"
+msgstr "Архивы: %s"
+
+#: inc/template-tags.php:419
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Чаты"
+
+#: inc/template-tags.php:413
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Ссылки"
+
+#: inc/template-tags.php:415
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Статусы"
+
+#: inc/template-tags.php:407
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Изображения"
+
+#: inc/template-tags.php:411
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: inc/template-tags.php:409
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Видео"
+
+#: inc/template-tags.php:405
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галереи"
+
+#: inc/template-tags.php:400
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "d.m.Y"
+
+#: inc/template-tags.php:403
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Заметки"
+
+#: inc/template-tags.php:400
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: inc/template-tags.php:398
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:398
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: inc/template-tags.php:396
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:396
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: inc/template-tags.php:394
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: inc/template-tags.php:392
+msgid "Tag: %s"
+msgstr "Метка: %s"
+
+#: inc/template-tags.php:390
+msgid "Category: %s"
+msgstr "Рубрика: %s"
+
+#: inc/template-tags.php:327
+msgid "<a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">Permalink</a>."
+msgstr "<a href=\"%3$s\" title=\"Постоянная ссылка на %4$s\" rel=\"bookmark\">Постоянная ссылка</a>"
+
+#: inc/template-tags.php:333 inc/template-tags.php:335
+msgid "Posted in: %1$s"
+msgstr "Опубликовано в: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:325 inc/template-tags.php:333
+msgid "Tagged: %2$s"
+msgstr "Помечено: %2$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:317
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:200
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: inc/template-tags.php:200
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: inc/template-tags.php:200
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: inc/template-tags.php:189
+msgid "Featured"
+msgstr "Избранное"
+
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: inc/template-tags.php:89
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/template-tags.php:84
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s<span class=\"says\">:</span>"
+
+#: inc/template-tags.php:75
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: inc/template-tags.php:53
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\"></span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\"></span>&nbsp;%title"
+
+#: inc/template-tags.php:54
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\"></span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\"></span>"
+
+#: inc/template-tags.php:50
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: inc/template-tags.php:23
+msgid "<span class=\"meta-nav\"></span> Older posts"
+msgstr "<span class=\"meta-nav\"></span> Предыдущие записи"
+
+#: inc/template-tags.php:27
+msgid "Newer posts <span class=\"meta-nav\"></span>"
+msgstr "Следующие записи <span class=\"meta-nav\"></span>"
+
+#: inc/template-tags.php:19
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: inc/extras.php:117
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: image.php:21
+msgid "<span class=\"meta-nav\"></span> Previous"
+msgstr "<span class=\"meta-nav\"></span> Предыдущая"
+
+#: image.php:22
+msgid "Next <span class=\"meta-nav\"></span>"
+msgstr "Следующая <span class=\"meta-nav\"></span>"
+
+#: image.php:33
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "Опубликовано <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span><a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> в <a href=\"%6$s\" title=\"Вернуться к %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: header.php:37
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:121
+msgid "Main Sidebar"
+msgstr "Главная боковая колонка"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Droid Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:87
+msgctxt "Droid Serif font: on or off"
+msgid "on"
+msgstr "Включить"
+
+#: functions.php:49
+msgid "Social Menu"
+msgstr "Меню социальных сетей"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Source Sans Pro, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:82
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s, автор: %2$s."
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Сайт работает на %s"
+
+#: footer.php:19
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Семантическая Персональная Платформа для Публикаций"
+
+#: content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: content-none.php:11
+msgid "Nothing Found"
+msgstr "Не найдено"
+
+#: content-grid.php:26 content-page.php:25 content-testimonial.php:21
+#: image.php:53 inc/template-tags.php:75 inc/template-tags.php:99
+#: inc/template-tags.php:205 page-templates/front-page.php:28
+msgid "Edit"
+msgstr "Изменить"
+
+#: inc/template-tags.php:228
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка: %s"
+
+#: content-aside.php:29 content-gallery.php:30 content-image.php:31
+#: content-link.php:28 content-page.php:19 content-quote.php:29
+#: content-video.php:29 content.php:36 image.php:73
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: content-aside.php:26 content-gallery.php:27 content-image.php:28
+#: content-link.php:25 content-quote.php:26 content-video.php:26 content.php:33
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:26 comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: comments.php:25 comments.php:37
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:24 comments.php:36
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:17
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s: Один комментарий"
+msgstr[1] "%2$s: %1$s комментария"
+msgstr[2] "%2$s: %1$s комментариев"
+
+#: archive-jetpack-testimonial.php:29
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По этому адресу ничего не найдено. Воспользуйтесь одной из следующих ссылок или поиском."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ошибка. Страница не найдена."

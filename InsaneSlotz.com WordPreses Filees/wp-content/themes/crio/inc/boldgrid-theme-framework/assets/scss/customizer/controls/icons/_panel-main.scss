@@ -1,0 +1,109 @@
+// Set default icon styles.
+[id^="accordion-panel-"] > h3:before,
+[id^="accordion-section-"] > h3:before {
+	@include dashicons;
+}
+
+[id^="accordion-panel-"] > h3.dashicons:before,
+[id^="accordion-section-"] > h3.dashicons:before {
+	@include dashicons;
+}
+
+[id^="accordion-panel-"] > h3.fa:before,
+[id^="accordion-section-"] > h3.fa:before {
+	@include FontAwesome;
+}
+
+[id^="accordion-panel-"] > h3.fa,
+[id^="accordion-section-"] > h3.fa {
+	font: inherit;
+	font-size: inherit;
+	font-weight: bold;
+}
+
+[id^="accordion-panel-"] > h3[class^="icon-"]:before,
+[id^="accordion-section-"] > h3[class^="icon-"]:before,
+[id^="accordion-panel-"] > h3[class*=" icon-"]:before,
+[id^="accordion-section-"] > h3[class*=" icon-"]:before {
+	@include bgtfwIcons;
+}
+
+
+// Main panel.
+ul.customize-pane-parent > li {
+	&#accordion-panel- {
+		&widgets > h3:before {
+			content: "\f538";
+		}
+		&nav_menus > h3:before {
+			content: "\f333";
+		}
+	}
+	&#accordion-section- {
+		&colors > h3:before {
+			content: "\f309";
+		}
+		&background_image > h3:before {
+			content: "\f128";
+		}
+		&custom_css > h3:before {
+			content: "\f475";
+		}
+	}
+	&#accordion-panel-woocommerce {
+		.accordion-section-title:before {
+			font-family: 'WooCommerce';
+    		content: '\e03d';
+		}
+	}
+}
+
+#accordion-section-bgtfw_layout_woocommerce {
+	.accordion-section-title:before {
+		font-family: 'WooCommerce';
+		content: '\e03d';
+	}
+}
+
+#sub-accordion-section-bgtfw_layout_woocommerce {
+	div.bgtfw-section-title:before {
+		font-family: 'WooCommerce';
+    		content: '\e03d';
+	}
+}
+
+// Static Front Page (Homepage) Section.
+#accordion-section-static_front_page > h3:before {
+	content: "\f102";
+}
+
+// Header Image section.
+#accordion-section-header_image > h3:before {
+	content: "\f128";
+}
+
+// Title Tagline Section.
+#accordion-section-title_tagline > h3:before {
+	content: "\f513";
+}
+
+
+.panel-title,
+.bgtfw-section-title {
+
+	&:before {
+		padding-left: 0 !important;
+		padding-right: .25em !important;
+	}
+
+	&[class^="icon-"]:before,
+	&[class*=" icon-"]:before {
+		line-height: 20px;
+		font-size: 20px;
+		vertical-align: initial;
+	}
+}
+
+.panel-title.dashicons-before:before {
+	line-height: inherit;
+}

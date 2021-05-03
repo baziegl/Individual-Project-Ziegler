@@ -1,0 +1,268 @@
+# Translation of WordPress.com - Themes - Scrawl in Hindi
+# This file is distributed under the same license as the WordPress.com - Themes - Scrawl package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-03 10:07:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hi_IN\n"
+"Project-Id-Version: WordPress.com - Themes - Scrawl\n"
+
+#: content.php:35
+msgid "Featured"
+msgstr "विशेष रुप से प्रदर्शित"
+
+#: single.php:17
+msgid "Next post"
+msgstr "अगला पोस्ट"
+
+#: single.php:17
+msgid "Previous post"
+msgstr "पिछले पोस्ट"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s के लिए खोज परिणाम:"
+
+#: inc/template-tags.php:189
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">%1$s पर पोस्ट किया गया</span><span class=\"byline\"> %2$s द्वारा</span>"
+
+#: inc/template-tags.php:275
+msgid "All %s posts"
+msgstr "%s के सभी पोस्ट"
+
+#: inc/template-tags.php:182
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:120
+msgid "Archives"
+msgstr "पुरालेख"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:118
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:114
+msgid "Archives: %s"
+msgstr "पुरालेख: %s"
+
+#: inc/template-tags.php:111
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "चैट्स"
+
+#: inc/template-tags.php:109
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "ऑडियो"
+
+#: inc/template-tags.php:107
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "स्थितियां"
+
+#: inc/template-tags.php:105
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "कड़ियाँ"
+
+#: inc/template-tags.php:103
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "उद्धरण"
+
+#: inc/template-tags.php:101
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "वीडियोस"
+
+#: inc/template-tags.php:99
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "छवियाँ"
+
+#: inc/template-tags.php:97
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "गैलेरियां"
+
+#: inc/template-tags.php:95
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "एसाइड"
+
+#: inc/template-tags.php:92
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:92
+msgid "Day: %s"
+msgstr "दिन: %s"
+
+#: inc/template-tags.php:90
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:90
+msgid "Month: %s"
+msgstr "महीना: %s"
+
+#: inc/template-tags.php:88
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:88
+msgid "Year: %s"
+msgstr "वर्ष: %s"
+
+#: inc/template-tags.php:86
+msgid "Author: %s"
+msgstr "लेखक: %s"
+
+#: inc/template-tags.php:84
+msgid "Tag: %s"
+msgstr "टैग: %s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "पोस्ट नेविगेशन"
+
+#: inc/template-tags.php:82
+msgid "Category: %s"
+msgstr "श्रेणी: %s"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "नए पोस्टस"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "पुराने पोस्टस "
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "पोस्टस नेविगेशन"
+
+#: inc/extras.php:103
+msgid "Cancel reply"
+msgstr "जवाब रद्द करें"
+
+#: inc/extras.php:67
+msgid "Page %s"
+msgstr "पृष्ठ %s"
+
+#: inc/customizer.php:30
+msgid "Gravatar Email"
+msgstr "ग्रवटार ईमेल"
+
+#: inc/customizer.php:20
+msgid "Theme"
+msgstr "थीम"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "सामग्री पर जाएं"
+
+#: functions.php:50
+msgid "Social Links"
+msgstr "सामाजिक कड़ियाँ"
+
+#: functions.php:49 header.php:25
+msgid "Primary Menu"
+msgstr "प्राथमिक मेनू"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "थीम: %2$s द्वारा %1$s।"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "%s द्वारा गर्व के साथ संचालित"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:21
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "पढना जारी रखे <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:39 content.php:41
+msgid "1"
+msgstr "1"
+
+#: content-single.php:39 content.php:41
+msgid "%"
+msgstr "%"
+
+#: content-single.php:39 content.php:41
+msgid "0"
+msgstr "0"
+
+#: content-page.php:25 content-single.php:42 content.php:44
+msgid "Edit"
+msgstr "सम्पादन"
+
+#: content-page.php:18 content-single.php:18 content.php:24
+msgid "Pages:"
+msgstr "पृष्ठ:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ऐसा लगता है आप जो देख रहे हैं हमें नहीं मिल रहा है। शायद खोज मदद कर सकता है।"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "क्षमा करें, लेकिन कुछ भी आपके खोज शब्दों से मेल नहीं खाते। कृपया कुछ अलग खोजशब्दों के साथ फिर से प्रयास करें।"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "अपनी पहली पोस्ट को प्रकाशित करने के लिए तैयार हैं? <a href=\"%1$s\">यहाँ से शुरुआत करें</a>।"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "कुछ नहीं मिला"
+
+#: comments.php:50
+msgid "Newer Comments"
+msgstr "नई टिप्पणियाँ"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "टिप्पणियाँ बंद कर दी गयी है। "
+
+#: comments.php:49
+msgid "Older Comments"
+msgstr "पुरानी टिप्पणियाँ"
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr "टिप्पणी नेविगेशन"
+
+#: comments.php:39
+msgid "Reply"
+msgstr "प्रतिक्रिया"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo पर एक विचार;"
+msgstr[1] "%1$s विचार &ldquo;%2$s&rdquo पर;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ऐसा लगता है कि कुछ भी इस स्थान पर नहीं पाया गया है। शायद एक खोज की कोशिश करें?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "उफ़! वह पृष्ठ नहीं पाया जा सकता है।"

@@ -1,0 +1,18 @@
+#boldgrid-hide-post-title.boldgrid-controls {
+	margin: 10px 10px 0;
+	display: none;
+
+	.dashicons-editor-help:hover {
+		cursor: help;
+
+		+ .boldgrid-tooltip {
+			display: inline-block;
+			left: 33px;
+			margin-top: 20px;
+		}
+	}
+}
+
+.post-php.post-type-page.boldgrid-editor-template #boldgrid-hide-post-title.boldgrid-controls {
+	display: block;
+}

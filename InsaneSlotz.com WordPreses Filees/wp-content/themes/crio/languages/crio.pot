@@ -1,0 +1,3040 @@
+# Copyright (C) 2021 crio
+# This file is distributed under the same license as the crio package.
+msgid ""
+msgstr ""
+"Project-Id-Version: crio\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: The BoldGrid Team <support@boldgrid.com>\n"
+"Report-Msgid-Bugs-To: https://github.com/BoldGrid/crio/issues\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:13
+msgid "404: Page Not Found."
+msgstr ""
+
+#: 404.php:14, templates/content-none.php:14
+msgid "The page you requested could not be found."
+msgstr ""
+
+#: base.php:45
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:13, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-search.php:73
+msgid "Search"
+msgstr ""
+
+#: search.php:15
+msgid "No Results"
+msgstr ""
+
+#: search.php:15
+msgid "Try different search terms."
+msgstr ""
+
+#: search.php:17
+msgid "Results"
+msgstr ""
+
+#: search.php:30
+msgid "Search Results"
+msgstr ""
+
+#: search.php:46
+msgid "Sorry. We couldn&rsquo;t find anything for that search. View one of our site&rsquo;s pages or a recent article below."
+msgstr ""
+
+#: inc/class-boldgrid-crio-welcome.php:49, inc/class-boldgrid-crio-welcome.php:50
+msgid "Crio"
+msgstr ""
+
+#: sa_templates/estimate.php:59
+msgid "Not Yet Published"
+msgstr ""
+
+#: sa_templates/estimate.php:61
+msgid "Approved"
+msgstr ""
+
+#: sa_templates/estimate.php:63
+msgid "Pending Approval"
+msgstr ""
+
+#: sa_templates/estimate.php:81
+msgid "From"
+msgstr ""
+
+#: sa_templates/estimate.php:88, sa_templates/estimate.php:110
+msgid "Phone: %1$s"
+msgstr ""
+
+#: sa_templates/estimate.php:92, sa_templates/estimate.php:114
+msgid "Fax: %1$s"
+msgstr ""
+
+#: sa_templates/estimate.php:96
+msgid "%1$s"
+msgstr ""
+
+#: sa_templates/estimate.php:101
+msgid "To"
+msgstr ""
+
+#: sa_templates/estimate.php:129
+msgid "Invoice #"
+msgstr ""
+
+#: sa_templates/estimate.php:132
+msgid "PO #"
+msgstr ""
+
+#: sa_templates/estimate.php:135
+msgid "Issued on"
+msgstr ""
+
+#: sa_templates/estimate.php:137
+msgid "Expires on"
+msgstr ""
+
+#: sa_templates/estimate.php:139
+msgid "Total Estimated"
+msgstr ""
+
+#: sa_templates/estimate.php:169, sa_templates/invoice.php:119
+msgid "Info &amp; Notes"
+msgstr ""
+
+#: sa_templates/estimate.php:179, sa_templates/invoice.php:129
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: sa_templates/estimate.php:193, sa_templates/invoice.php:59
+msgid "Recently Updated"
+msgstr ""
+
+#: sa_templates/estimate.php:195, sa_templates/invoice.php:61
+msgid "Updated %1$s Days Ago"
+msgstr ""
+
+#: sa_templates/estimate.php:212
+msgid "Estimate expires in <strong>%1$s Days</strong>"
+msgstr ""
+
+#: sa_templates/estimate.php:215
+msgid "Estimate Declined"
+msgstr ""
+
+#: sa_templates/estimate.php:217
+msgid "Decline Estimate"
+msgstr ""
+
+#: sa_templates/estimate.php:221
+msgid "Estimate Approved"
+msgstr ""
+
+#: sa_templates/estimate.php:223
+msgid "Accept Estimate"
+msgstr ""
+
+#: sa_templates/estimate.php:229
+msgid "Estimate is Expired"
+msgstr ""
+
+#: sa_templates/estimate.php:246
+msgid "Estimate History"
+msgstr ""
+
+#: sa_templates/estimate.php:253, sa_templates/invoice.php:178
+msgid "Comment by %s "
+msgstr ""
+
+#: sa_templates/estimate.php:284, sa_templates/invoice.php:213
+msgid "Powered by Sprout Invoices"
+msgstr ""
+
+#: sa_templates/invoice.php:52
+msgid "Invoice %1$s"
+msgstr ""
+
+#: sa_templates/invoice.php:71
+msgid "Issued: %1$s by:"
+msgstr ""
+
+#: sa_templates/invoice.php:78
+msgid "Due: %1$s to:"
+msgstr ""
+
+#: sa_templates/invoice.php:85
+msgid "Due:"
+msgstr ""
+
+#: sa_templates/invoice.php:171
+msgid "Invoice History"
+msgstr ""
+
+#: sa_templates/invoice.php:192, sa_templates/invoice.php:192
+msgid "View Message"
+msgstr ""
+
+#: templates/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: templates/content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: templates/content-none.php:25
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: templates/content-page.php:14, templates/content-single.php:24, templates/content.php:39
+msgid "Pages:"
+msgstr ""
+
+#: templates/content.php:34
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: templates/recent-entries.php:20
+msgid "Recent Articles"
+msgstr ""
+
+#: templates/recent-entries.php:36
+msgid "Page Sitemap"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:28
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:30
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:137
+msgctxt "An image of someone typing on laptop up close used in theme starter content"
+msgid "Typing on laptop closeup"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:141
+msgctxt "Image of a laptop, desk, and chair used in theme starter content"
+msgid "Laptop and chair photography"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:145
+msgctxt "Photogaphy of a journal and cell phone in theme starter content"
+msgid "Diary and Phone"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:149
+msgctxt "Image of man on computer used in theme starter content"
+msgid "Man on computer"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:153
+msgctxt "crio"
+msgid "Light test logo for theme starter content"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:165
+msgctxt "Theme starter content post title"
+msgid "Home"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:173
+msgctxt "Theme starter content post title"
+msgid "Contact Us"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:179
+msgctxt "Theme starter content post title"
+msgid "Blog"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:184
+msgctxt "Theme starter content post title"
+msgid "Advanced Analytics"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:190
+msgctxt "Theme starter content post title"
+msgid "Information Technology"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:196
+msgctxt "Theme starter content post title"
+msgid "Digital"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:364, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:210
+msgid "Read More"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:417
+msgid "Main Menu"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:431
+msgid "Social Media Links"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:525, inc/boldgrid-theme-framework-config/config.php:563, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-generic.php:427, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:174, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:246, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1248, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2028, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2136, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2179, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2237, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:87
+msgid "Logo"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:530, inc/boldgrid-theme-framework-config/config.php:568, inc/boldgrid-theme-framework/includes/class-boldgrid-framework-title.php:100, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-generic.php:432, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:179, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:251, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2033, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2141, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2184, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2242, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:29, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:264
+msgid "Title"
+msgstr ""
+
+#: inc/boldgrid-theme-framework-config/config.php:535, inc/boldgrid-theme-framework-config/config.php:573, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-generic.php:437, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:184, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:256, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1250, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2038, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2146, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2189, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2247, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:130, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:73, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:270
+msgid "Tagline"
+msgstr ""
+
+#: inc/partials/pro-features.php:24
+msgid "Create More with Crio Pro!"
+msgstr ""
+
+#: inc/partials/pro-features.php:26
+msgid "Upgrade to Crio Pro today to get over 150 additional Customizer controls, Custom Page Headers, and more."
+msgstr ""
+
+#: inc/partials/welcome.php:33
+msgid "Welcome to Crio!"
+msgstr ""
+
+#: inc/partials/welcome.php:35
+msgid "Crio is a powerful theme that enables you to build beautiful websites without boundaries or limitations."
+msgstr ""
+
+#: inc/partials/welcome.php:44
+msgid "Getting Started"
+msgstr ""
+
+#: inc/partials/welcome.php:46
+msgid "Welcome to BoldGrid Crio! In order to give you a head start editing and designing, we have provided starter content for you to customize.  You may edit any part of the content to suit your needs or delete content and pages you don't find valuable.  Our starter content works best with the <a href=\"https://wordpress.org/plugins/post-and-page-builder/\" target=\"_blank\">Post and Page Builder</a> by <a href=\"https://www.boldgrid.com/\" target=\"_blank\">BoldGrid</a>."
+msgstr ""
+
+#: inc/partials/welcome.php:50
+msgid "Install Post and Page Builder"
+msgstr ""
+
+#: inc/partials/welcome.php:53, inc/partials/welcome.php:61, inc/partials/welcome.php:65
+msgid "Preview and Customize Starter Content"
+msgstr ""
+
+#: inc/partials/welcome.php:58
+msgid "Activate Post and Page Builder"
+msgstr ""
+
+#: inc/partials/welcome.php:74
+msgid "Crio - The Theme with More"
+msgstr ""
+
+#: inc/partials/welcome.php:76
+msgid "Welcome to BoldGrid Crio! Crio means \"I Create\" in Portuguese and this is our aim: To give you the most powerful site creation tools you can use! Visit <a href=\"https://www.BoldGrid.com/\" target=\"_blank\">BoldGrid.com</a> to learn about all the resources we offer. Be sure to install the recommended Post and Page Builder. Crio's unique Customizer was designed to integrate with the <a href=\"https://www.boldgrid.com/wordpress-page-builder-by-boldgrid/\" target=\"_blank\">Post and Page Builder</a>, so you can easily use your fonts and colors from the visual editor."
+msgstr ""
+
+#: inc/partials/welcome.php:90
+msgid "Learning Resources"
+msgstr ""
+
+#: inc/partials/welcome.php:98
+msgid "Crio Documentation and Tutorials"
+msgstr ""
+
+#: inc/partials/welcome.php:99
+msgid "Step by Step tutorials and easy to follow documentation!"
+msgstr ""
+
+#: inc/partials/welcome.php:109
+msgid "1 on 1 Support"
+msgstr ""
+
+#: inc/partials/welcome.php:110
+msgid "Need help with Crio that you don't see in our Docs or user groups? Contact our Support Team (Premium Feature)"
+msgstr ""
+
+#: inc/partials/welcome.php:120
+msgid "Team Orange"
+msgstr ""
+
+#: inc/partials/welcome.php:121
+msgid "An active and helpful place to get answers and tips from users like you!"
+msgstr ""
+
+#: inc/partials/welcome.php:126
+msgid "Browse Docs"
+msgstr ""
+
+#: inc/partials/welcome.php:129
+msgid "Get Support"
+msgstr ""
+
+#: inc/partials/welcome.php:132
+msgid "Join Us"
+msgstr ""
+
+#: inc/partials/welcome.php:143
+msgid "Go Pro"
+msgstr ""
+
+#: inc/partials/welcome.php:144
+msgid "Looking for more? Upgrade to Crio Pro today to get over 150 additional Customizer controls, including Custom Page Headers and White Labeling options. For only $3.25 a month (billed annually) you can design your site with professional level confidence."
+msgstr ""
+
+#: inc/partials/welcome.php:146
+msgid "Get Crio Pro"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:26
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:30
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:54
+msgid "Create an account?"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:23
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:40
+msgid "Go shop"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:42
+msgid "No downloads available yet."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:43
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:51
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:55
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:59
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:72, woocommerce/myaccount/form-edit-account.php:72
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:49
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#. translators: 1: formatted order total 2: total order items
+#: woocommerce/myaccount/orders.php:61
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:89
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:93
+msgid "Next"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:101
+msgid "Browse products"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:103
+msgid "No order has been made yet."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-404.php:58
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-404.php:62
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-404.php:70
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-404.php:87
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-api.php:872
+msgid "This content is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-api.php:873
+msgid "Password:"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-api.php:875
+msgctxt "post password form"
+msgid "Enter"
+msgstr ""
+
+#. translators: %s: comments title
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-comments.php:62
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-comments.php:68
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-comments.php:126
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-comments.php:132
+msgid "Leave a Reply"
+msgstr ""
+
+#. translators: %s: the author of the comment being replied to
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-comments.php:134
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-comments.php:135
+msgid "Cancel Reply"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-comments.php:136
+msgid "Post Comment"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-comments.php:140
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-comments.php:159
+msgid "Pingback:"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-comments.php:159, inc/boldgrid-theme-framework/includes/class-boldgrid-framework-layouts-post-meta.php:223, inc/boldgrid-theme-framework/includes/class-boldgrid-framework-title.php:132
+msgid "Edit"
+msgstr ""
+
+#. translators: this displays as $author says:
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-comments.php:177
+msgid "says"
+msgstr ""
+
+#. translators: 1: date of comment, 2: time of comment
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-comments.php:186
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-comments.php:190
+msgid "<span style=\"margin-left: 5px;\" class=\"fa fa-edit\"></span> Edit"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-comments.php:194
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-custom-header.php:94
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-custom-header.php:250
+msgid "Play background video"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-custom-header.php:251
+msgid "Pause background video"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-layouts-post-meta.php:54
+msgid "Page Attributes"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-layouts-post-meta.php:54
+msgid "Post Attributes"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-layouts-post-meta.php:123
+msgid "Theme Customizer Default"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-layouts-post-meta.php:126
+msgid "Use Global Setting"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-layouts-post-meta.php:205
+msgid "Template"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-layouts-post-meta.php:223
+msgid "Edit template"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-layouts-post-meta.php:228, inc/boldgrid-theme-framework/includes/class-boldgrid-framework-title.php:148
+msgid "OK"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-layouts-post-meta.php:229, inc/boldgrid-theme-framework/includes/class-boldgrid-framework-title.php:149
+msgid "Cancel"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-layouts-post-meta.php:240
+msgid "Advanced Options"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-layouts-post-meta.php:250
+msgid "(no parent)"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-layouts-post-meta.php:273
+msgid "Parent"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-layouts-post-meta.php:282
+msgid "Order"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-layouts-post-meta.php:285
+msgid "Need help? Use the Help tab above the screen title."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-menu.php:203
+msgid "Toggle menu visibility."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-search-forms.php:53
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-title.php:67
+msgid "Configure"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-title.php:68
+msgid "Configure Posts Page"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-title.php:100
+msgid "Post"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-title.php:100
+msgid "Page"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-title.php:104, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:497, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:545, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:697, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:782, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:934, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1012, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1657, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2894, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3049, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3259, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3444, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3563, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3587, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3815, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3899, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4051, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4135, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4287
+msgid "Show"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-title.php:110, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:498, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:546, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:698, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:783, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:935, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1013, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1658, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2895, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3000, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3050, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3260, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3445, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3564, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3588, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3816, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3900, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4052, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4136, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4288
+msgid "Hide"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-version-requirements.php:53
+msgid "You need to update your PHP version to use this theme!"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-version-requirements.php:56
+msgid "Your current version is:"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-version-requirements.php:56
+msgid "and this theme requires 5.6.0"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-widgets.php:140
+msgid "Inactive"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/class-boldgrid-framework-woocommerce.php:248
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/pro-feature-cards.config.php:13
+msgid "Custom Page Headers"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/pro-feature-cards.config.php:14
+msgid "Create Page Headers using drag and drop functionality, and assign them to different areas."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/pro-feature-cards.config.php:20
+msgid "White Labeling"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/pro-feature-cards.config.php:21
+msgid "Crio Pro can remove the default BoldGrid attribution for a truly white labeled product."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/pro-feature-cards.config.php:26
+msgid "Sticky Headers"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/pro-feature-cards.config.php:27
+msgid "Create a sticky header with a different layout and menu than the standard header."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/pro-feature-cards.config.php:32
+msgid "Blog Customization"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/pro-feature-cards.config.php:33
+msgid "Additional post header controls to further fine-tune your blog posts."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/tgm.config.php:65
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/tgm.config.php:66
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/widget.config.php:21
+msgid "Header Column 1"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/widget.config.php:29
+msgid "Header Column 2"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/widget.config.php:37
+msgid "Header Column 3"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/widget.config.php:45
+msgid "Header Column 4"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/widget.config.php:55
+msgid "Footer Column 1"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/widget.config.php:63
+msgid "Footer Column 2"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/widget.config.php:71
+msgid "Footer Column 3"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/widget.config.php:79
+msgid "Footer Column 4"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/widget.config.php:89
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/control/class-boldgrid-framework-control-col-width.php:67, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2074
+msgid "Header Column Widths"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/control/class-boldgrid-framework-control-col-width.php:134
+msgid "Full width items for this device size"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/control/class-boldgrid-framework-control-palette.php:54
+msgid "Active Palette"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/control/class-boldgrid-framework-control-palette.php:84
+msgid "Save Palette"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/control/class-boldgrid-framework-control-palette.php:85
+msgid "Remove Palette"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/control/class-boldgrid-framework-control-palette.php:93
+msgid "Suggest Palettes"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/control/class-boldgrid-framework-control-palette.php:99
+msgid "Suggested Palettes"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/control/class-boldgrid-framework-control-palette.php:106
+msgid "Saved Palettes"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-background.php:137, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-background.php:159
+msgid "Background Effects"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-background.php:143
+msgid "Parallax"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-background.php:144, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:83
+msgid "Scroll"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-background.php:145, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:82
+msgid "Fixed"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-background.php:165, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:140, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:748
+msgid "Background"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-background.php:227
+msgid "Pattern"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-background.php:419, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:72
+msgid "Background Image"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-contact-blocks.php:54, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1668
+msgid "Contact Details"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-contact-blocks.php:60, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1674
+msgid "Contact Block"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-contact-blocks.php:67, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1694, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4370
+msgid "Text"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-contact-blocks.php:68, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1695
+msgid "Enter the text to display in your contact details"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-control-sortable-accordion.php:127
+msgid "Empty Row"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-control-sortable-accordion.php:134, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:406, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:431, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1810, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1878, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:37, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:269, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:457
+msgid "Container"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-control-sortable-accordion.php:139, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:70, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:412, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:437, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1529, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1560, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1816, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1885
+msgid "Full Width"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-control-sortable-accordion.php:172
+msgid "Add Row"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-device-preview.php:105
+msgid "Enter large display preview mode"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-edit.php:116
+msgid "Go there now"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-edit.php:117, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2008, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2162, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2220
+msgid "Menu"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-edit.php:120, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2046, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2200, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2258
+msgid "Widget Area"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-effects.php:63
+msgid "Page Effects"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-effects.php:70
+msgid "Slim Scroll Bars"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-effects.php:75, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:111, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1727
+msgid "Enable"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-effects.php:76, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:112, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1728
+msgid "Disable"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-footer.php:47
+msgid "Built with"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-footer.php:49
+msgid "BoldGrid"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-footer.php:57
+msgid "Powered by"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-footer.php:59
+msgid "WordPress"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:71, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:240, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1355, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1430, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1764, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2305, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:249, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:256
+msgid "Background Color"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:73
+msgid "No Repeat"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:74
+msgid "Repeat All"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:75
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:76
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:77
+msgid "Inherit"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:78
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:79
+msgid "Cover"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:80
+msgid "Contain"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:81
+msgid "Background Size"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:84
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:85
+msgid "Left Top"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:86
+msgid "Left Center"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:87
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:88
+msgid "Right Top"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:89
+msgid "Right Center"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:90
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:91
+msgid "Center Top"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:92
+msgid "Center Center"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:93
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:94
+msgid "Background Position"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:95
+msgid "Background Opacity"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:96
+msgid "ON"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:97
+msgid "OFF"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:98
+msgid "All"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:99
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:100
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:101
+msgid "Devanagari"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:102
+msgid "Greek"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:103
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:104
+msgid "Khmer"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:105
+msgid "Latin"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:106
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:107
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:108
+msgid "Hebrew"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:109
+msgid "Arabic"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:110
+msgid "Bengali"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:111
+msgid "Gujarati"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:112
+msgid "Tamil"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:113
+msgid "Telugu"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:114
+msgid "Thai"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:115
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:116
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:117
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:118
+msgid "Font Family"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:119, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1191, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2931
+msgid "Font Size"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:120
+msgid "Font Weight"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:121
+msgid "Line Height"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:122
+msgid "Font Style"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:123
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:124, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2113
+msgid "Top"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:125
+msgid "Bottom"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:126, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1489, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2112, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2969, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3020, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3657, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4542
+msgid "Left"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:127, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1491, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2114, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2971, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3022, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3659, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4544
+msgid "Right"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:128, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:87, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:151, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1159, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1205, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1369, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2647, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2662, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2911
+msgid "Color"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:129
+msgid "Add Image"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:130
+msgid "Change Image"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:131
+msgid "Remove"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:132
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:133
+msgid "Select a font-family"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:134
+msgid "Variant"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:135
+msgid "Subset"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:136, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3621
+msgid "Size"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:137, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3480
+msgid "Height"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:138, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:302
+msgid "Spacing"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:139
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:140
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:141
+msgid "Light 200"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:142
+msgid "Light 200 Italic"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:143
+msgid "Book 300"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:144
+msgid "Book 300 Italic"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:145
+msgid "Normal 400"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:146
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:147
+msgid "Medium 500"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:148
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:149
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:150
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:151
+msgid "Bold 700"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:152
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:153
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:154
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:155
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:156
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-kirki.php:157
+msgid "Invalid Value"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-panel.php:193, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-section.php:164
+msgid "Back"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-panel.php:200, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-section.php:173, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:114, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:129, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:142, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:155, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:168, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:181, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:194, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:218, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:263, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:278, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:291, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:304, inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:64, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:77, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:98
+msgid "Help"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-panel.php:229
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:122
+msgid "You do not have a logo set. "
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:123, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:128, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:133
+msgid "Click Here"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:124
+msgid " to set your logo."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:127
+msgid "You do not have a site title set. "
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:129
+msgid " to set your site title."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:132
+msgid "You do not have a tagline set. "
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-presets.php:134
+msgid " to set your tagline."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-search.php:79
+msgid "Search Controls..."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-search.php:80
+msgid "Clear"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-section.php:158
+msgid "Press return or enter to open this section"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-widget-meta.php:217
+msgid "Title:"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-widget-meta.php:218
+msgid "Background Color:"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-widget-meta.php:219
+msgid "Headings Color:"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-widget-meta.php:220
+msgid "Links Color:"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer-widgets-section.php:95
+msgid "Edit in Admin"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:98
+msgid "Menu Items"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:112, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2293
+msgid "Hamburger Style"
+msgstr ""
+
+#. translators: %s: a menu location's description.
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:114
+msgid "Change the hamburger menu style for your %s location."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:127
+msgid "Font"
+msgstr ""
+
+#. translators: %s: a menu location's description.
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:129
+msgid "Change the font for your %s location."
+msgstr ""
+
+#. translators: %s: a menu location's description.
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:142
+msgid "Change the background for your %s location."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:153, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:250, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:289, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:331, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:375, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:416
+msgid "Border"
+msgstr ""
+
+#. translators: %s: a menu location's description.
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:155
+msgid "Change the border of your %s location."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:166, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:315, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:359, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:402
+msgid "Margin"
+msgstr ""
+
+#. translators: %s: a menu location's description.
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:168
+msgid "Change the margins of your %s location."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:179, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:323, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:367, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:409
+msgid "Padding"
+msgstr ""
+
+#. translators: %s: a menu location's description.
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:181
+msgid "Change the padding of your %s location."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:192
+msgid "Device Visibility"
+msgstr ""
+
+#. translators: %s: a menu location's description.
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:194
+msgid "Adjust what devices can see your %s location."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:205
+msgid "Standard Display"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:216
+msgid "Active Link Style"
+msgstr ""
+
+#. translators: 1. Description.
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:218
+msgid "Change the active link style for your %s location."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:230, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:276, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:586, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:823, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1053, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1592, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1779, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2632, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3129, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3312, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3705, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3940, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4176, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4431
+msgid "Link Color"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:261
+msgid "Hover Style"
+msgstr ""
+
+#. translators: %s: a menu location's description.
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:263
+msgid "Change the hover style for links in your %s location."
+msgstr ""
+
+#. translators: %s: a menu location's description.
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:278
+msgid "Change the primary color for links in your %s location."
+msgstr ""
+
+#. translators: %s: a menu location's description.
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:291
+msgid "Change the menu borders in your %s location."
+msgstr ""
+
+#. translators: %s: a menu location's description.
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:304
+msgid "Change the menu spacing in your %s location."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:540
+msgid "Please wait while the Customizer loads..."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:712
+msgid "Homepage"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:713
+msgid "Change your site's Homepage settings"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:721
+msgid "Drag a color to a new spot to change what parts of the website are that color.<a href=\"#\" data-action=\"open-color-picker\"><span class=\"dashicons dashicons-admin-customizer\"></span><strong>Click a color</strong></a> to change it. Use the \"Suggest Palettes\" button to get new color suggestions, and press the lock icons to freeze colors in place."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:727
+msgid "Logo & Icon"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:728
+msgid "Change your site's logo and favicon."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:749
+msgid "Change the background of your site's custom header."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:757
+msgid "CSS/JS Editor"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:758
+msgid "Manage custom CSS and JS code for your site."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:779
+msgid "Manage the menus used on your site."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:785
+msgid "A Widget is a small block that performs a specific function. We have provided some prefilled widget areas for you. You can hover over the Widget Areas below to see where they are located on the page."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:791
+msgid "Add custom CSS for this theme."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:913
+msgid "You can add and remove widget areas in your header and footer layouts:"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:914, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1269
+msgid "Header Layout"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:915, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1986
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:928
+msgid "Get More Features"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:929, inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:930
+msgid "Upgrade Crio"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/customizer/class-boldgrid-framework-customizer.php:979
+msgid "Menu Tutorial"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/customizer-edit.php:8
+msgid "Edit this page"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/customizer-edit.php:9
+msgid "This section is part of an individual page of your site. The Customizer is for editing the header and footer or an overall setting of your site like colors and fonts. To edit this section, you'll need to leave the Customizer and go to the Page Editor."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:44
+msgid "Post navigation"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:47
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:48
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:84
+msgctxt "%s = human-readable time difference"
+msgid "Posted %s ago"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:91
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:97
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between each category list item, there is a space after the comma
+#. translators: used between each tag list item, there is a space after the comma
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:116, inc/boldgrid-theme-framework/includes/partials/template-tags.php:137
+msgid ", "
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:178
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:178
+msgid "1 Comment"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:178
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:249
+msgid "Click to edit %s."
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:261
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:338
+msgid "View Cart"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:349
+msgid "Checkout"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:444
+msgid "Empty Sidebar"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:446
+msgid "This sidebar doesn't have any widgets assigned to it yet."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:447
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/partials/template-tags.php:451
+msgid "Add another widget."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/pro-feature-cards/class-boldgrid-framework-pro-feature-cards.php:101, inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:76, inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:93, inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:109, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:89, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:111
+msgid "Learn More"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:325
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:326
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:328
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:330
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:331
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:332
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:338
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:344
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:350
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:356
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:362
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:368
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:373
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:383
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:384, inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:819, inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2525, inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3571
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:385, inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3150
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:386, inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2944
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:388
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:390
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:392
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:394
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:514
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:515
+msgid "Update Required"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:926
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:926, inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:929
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:929
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:1113, inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2940
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:1974
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2265
+msgid "Required"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2268
+msgid "Recommended"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2284
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2287
+msgid "External Source"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2290
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2307
+msgid "Not Installed"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2311
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2313
+msgid "Active"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2319
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2322
+msgid "Requires Update"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2325
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2334
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2380
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2384
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2388
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2474
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2482
+msgid "Installed version:"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2490
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2502
+msgid "Available version:"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2525
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2539
+msgid "Plugin"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2540
+msgid "Source"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2541, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4383
+msgid "Type"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2545
+msgid "Version"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2546
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2595
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2600
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2606
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2676
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2709
+msgid "Install"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2715
+msgid "Update"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2718
+msgid "Activate"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2749
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2751
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2792
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2794
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2900
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:2926
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3149
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3489
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3492
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3494
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3498
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3500
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3500, inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3508
+msgid "Show Details"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3500, inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3508
+msgid "Hide Details"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3501
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3503
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3506
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3508
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3509
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/boldgrid-theme-framework/includes/tgm/class-tgm-plugin-activation.php:3511
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:35
+msgid "JS code"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:36
+msgid "This adds live JavaScript to your website."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:37
+msgid "Add custom javascript for this theme."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:55
+msgid "Image"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:56
+msgid "Pattern & Color"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:61
+msgid "Background Image Size"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:68
+msgid "Cover Page"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:69
+msgid "Scaled to Fit"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:71
+msgid "Full Height"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:72
+msgid "Default"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:73
+msgid "Do Not Resize"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:80
+msgid "Change the appearance of your site's background."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:88, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1431, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1765, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2861, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2876
+msgid "Choose a color from your palette to use."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:105
+msgid "Image Overlay"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:106
+msgid "Add an overlay to give your text readability over an image."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:119, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1735
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:133
+msgid "Overlay Blend Mode"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:138
+msgid "Multiply"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:139
+msgid "Screen"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:140
+msgid "Overlay"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:141
+msgid "Darken"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:142
+msgid "Lighten"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:143
+msgid "Color Dodge"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:144
+msgid "Color Burn"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:145
+msgid "Hard Light"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:146
+msgid "Soft Light"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:147
+msgid "Difference"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:148
+msgid "Exclusion"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:149
+msgid "Hue"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:150
+msgid "Saturation"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:152
+msgid "Luminosity"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:159, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1749
+msgid "Overlay Opacity"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:237, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:353, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2433, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2827
+msgid "Border Color"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:411, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:436, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1528, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1559, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1815, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1884
+msgid "Contained"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:467, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:45, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:204, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:274
+msgid "Sidebar"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:477
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:478
+msgid "How many products should be shown per page?"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:492, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:540, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:778, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1008, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1652, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2890, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2994, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3439, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3558, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3582, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3895, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4131
+msgid "Display"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:493
+msgid "This is a global setting. Access the editor to toggle page titles for individual posts."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:541, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3559
+msgid "Toggle the display of your tags on the blog roll and archive pages."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:564, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:801, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1031, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3683, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3918, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4154, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4409, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:61, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:138, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:186
+msgid "Colors"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:568, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:805, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1035, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3106, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3289, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3687, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3922, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4158, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4413
+msgid "Global Color"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:569, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:806, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1036, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3107, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3290, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3688, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3923, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4159, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4414
+msgid "Custom"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:611, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:848, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1078, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1605, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3159, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3342, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3730, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3965, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4201, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4456
+msgid "Text Style"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:616, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:853, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1083, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3164, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3347, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3735, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3970, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4206
+msgid "Normal"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:617, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:669, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:854, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:906, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1084, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1136, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1611, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1639, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3165, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3227, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3348, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3410, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3736, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3788, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3971, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4023, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4207, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4259, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4462, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4514
+msgid "Underline"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:639, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:876, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1106, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1621, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3192, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3375, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3758, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3993, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4229, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4484
+msgid "Hover Color Brightness"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:663, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:900, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1130, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1633, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3221, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3404, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3782, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4017, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4253, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4508
+msgid "Hover Text Style"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:668, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:905, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1135, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1610, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1638, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3226, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3409, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3656, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3787, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4022, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4258, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4461, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4513
+msgid "None"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:693, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:930, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3811, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4047, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4283
+msgid "Icon Display"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:721, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3839
+msgid "Single Tag Icon"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:749, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3867
+msgid "Multiple Tags Icon"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:951, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4075
+msgid "Single Category Icon"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:979, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4103
+msgid "Multiple Categories Icon"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1174
+msgid "Headings Typography"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1219, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1383, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1406, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2731
+msgid "Typography"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1243
+msgid "Branding Display"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1249, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:122, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:57, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:65
+msgid "Site Title"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1279
+msgid "Header Width"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1445
+msgid "Title Color"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1458
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1462, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2935
+msgid "H1"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1463, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2936
+msgid "H2"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1464, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2937
+msgid "H3"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1465, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2938
+msgid "H4"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1466, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2939
+msgid "H5"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1467, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2940
+msgid "H6"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1485
+msgid "Text Position"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1490, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2970, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3021, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3658, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4543
+msgid "Center"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1507, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2965, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3016, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3455, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3598, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4538
+msgid "Position"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1508, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1524
+msgid "Change where your page titles appear on your site."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1512
+msgid "Above Content"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1513
+msgid "In Content"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1523
+msgid "Background Container"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1554
+msgid "Content Container"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1555
+msgid "Set the page title content to be displayed in a container or full width of the page."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1653
+msgid "Toggle the display of the scroll to top button on your site."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1706
+msgid "By default, the header video will only display on the home page. If you want the video to display on all pages, disable this option."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1711
+msgid "Home Only"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1712
+msgid "All Pages"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1721
+msgid "Header Overlay"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1722
+msgid "Add an overlay to give your text readability over an image or video."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1790
+msgid "Columns"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1791
+msgid "Select the number of columns you wish to display on your blog page."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1824
+msgid "Blog Posts Per Page"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1825
+msgid "Set how many posts display per page for your blog, categories, archives, and search pages."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1842
+msgid "Post Content Display"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1843
+msgid "Choose between automatically generated post excerpts or displaying your posts' full content."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1846
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1847
+msgid "Full Content"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1855
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1856
+msgid "Set the length of excerpts used for your blog, categories, archives, and search pages."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1879
+msgid "Choose if you would like your content wrapped in a container or cover the full width of the page."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1902
+msgid "Sidebar Display"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1912, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1922
+msgid "Homepage Sidebar Display"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1936
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1947
+msgid "Homepage Blog Layout"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1952, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1973
+msgid "Layout 1"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1953, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1974
+msgid "Layout 2"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1954, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1975
+msgid "Layout 3"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1955, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1976
+msgid "Layout 4"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1956, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1977
+msgid "Layout 5"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1957, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1978
+msgid "Layout 6"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:1968, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:53
+msgid "Layout"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2018, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2172, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2230
+msgid "Branding"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2053
+msgid "Attribution Links"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2088
+msgid "Headers have a maximum of 12 columns per row. If the total columns used by the items in a row exceed 12, they will be rolled over to a new row."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2107
+msgid "Header Position"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2121
+msgid "Standard Header Layout"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2214, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:115
+msgid "Custom Header Layout"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2273
+msgid "Enable Hamburger Menu"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2281, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2486, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2543, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2697
+msgid "Primary Color"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2556
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2569
+msgid "Hover Effect"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2576
+msgid "No Hover Effects"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2580
+msgid "Single Color Transitions"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2590
+msgid "Fade"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2591
+msgid "Sweep to Right"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2592
+msgid "Sweep to Left"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2598
+msgid "Two Color Transitions"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2600
+msgid "Rectangle In"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2601
+msgid "Rectangle Out"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2602
+msgid "Shutter In Horizontal"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2603
+msgid "Shutter Out Horizontal"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2609
+msgid "Border Effects"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2611
+msgid "Trim"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2612
+msgid "Ripple In"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2613
+msgid "Outline Out"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2617
+msgid "Overline/Underline Effects"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2619
+msgid "Underline From Center"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2620
+msgid "Underline Reveal"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2621
+msgid "Overline Reveal"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2622
+msgid "Overline From Center"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2860
+msgid "Post Header"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2875, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:124
+msgid "Post Content"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2998
+msgid "Inline"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:2999
+msgid "New Lines"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3045
+msgid "Post Date Display"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3073
+msgid "Date Format"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3077
+msgid "Human Readable"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3078
+msgid "Date"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3102
+msgid "Date Link Color"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3255
+msgid "Author Display"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3285
+msgid "Author Link Color"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3440
+msgid "Hide or show your featured image on your blog roll and archive pages."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3456
+msgid "Change where your featured image appears on your blog roll or archive pages."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3460, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3603
+msgid "Header Background"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3461
+msgid "Above Header"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3462, inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3604
+msgid "Below Header"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3463
+msgid "In Post Content"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3481
+msgid "Change the height of the featured image container on your blog page and archive pages."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3519
+msgid "Width"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3520
+msgid "Change the width of the featured image container on your blog page and archive pages."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3583
+msgid "Hide or show your featured image on your blog posts."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3599
+msgid "Change where your featured image appears on your blog posts."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3622
+msgid "Change the size of your featured images. Due to container sizes, very large images may now show the full size when left or right aligned"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3626
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3627
+msgid "Medium"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3628
+msgid "Large"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3629
+msgid "Full"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3651
+msgid "Alignment"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:3652
+msgid "Change the alignment of your image."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4311
+msgid "Single Comment Icon"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4339
+msgid "Multiple Comments Icon"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4387
+msgid "Primary Button"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4388
+msgid "Secondary Button"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/controls.config.php:4389
+msgid "Link"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:15
+msgid "Design"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:20
+msgid "Fonts"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:21
+msgid "Manage your site's typography settings."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:26, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:277
+msgid "Header"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:32
+msgid "Site Content"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:38, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:284
+msgid "Footer"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:44, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:15
+msgid "Blog"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:50, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:291
+msgid "Blog Page"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:51
+msgid "Change the display of your site's blog page."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:56, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:21
+msgid "Pages"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:57
+msgid "Change the display of your site's pages"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:63
+msgid "Site Header Layout"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:64, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:77
+msgid "Manage the layout of your site's header."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:70, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:83, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:105
+msgid "Upgrade Crio to get additional display options for your header!"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:74, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:87, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:109
+msgid "1 premium feature available!"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:81, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:153
+msgid "Menus"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:82
+msgid "Manage the display of menus on your site."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:87
+msgid "Upgrade Crio to get additional menu style options!"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:91
+msgid "36 premium features available!"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:98
+msgid "Posts"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:99
+msgid "Change the display of single blog posts."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:103
+msgid "Upgrade Crio to get additional customization options for your posts!"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/panels.config.php:107
+msgid "15 premium features available!"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:17
+msgid "This section controls the layout of pages and posts on your website."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:23
+msgid "This section controls the global layout of pages on your website."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:32
+msgid "This section controls the appearance of titles on your pages."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:40, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:48
+msgid "This section controls the container for your pages."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:55
+msgid "Change the layout of your site's footer."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:63
+msgid "Change the colors used in your custom footer."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:69, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:76, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:146, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:264
+msgid "Advanced"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:70
+msgid "Advanced settings for the appearance of your site's footer."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:97
+msgid "Select Layout"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:98
+msgid "Choose from a number of presets for your header layout, or choose \"Custom\" to create a customized header layout."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:116
+msgid "Advanced settings for the layout of your site's header."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:124
+msgid "Change your site's title and it's appearance."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:132
+msgid "Change your site's tagline, and it's appearance."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:140
+msgid "Change the colors used in your custom header."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:147
+msgid "Advanced settings for the appearance of your site's header."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:158
+msgid "Main Text"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:163, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:81
+msgid "Headings"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:168
+msgid "Page Titles"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:169
+msgid "Control the display of page titles displayed on your site."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:174
+msgid "Links"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:175
+msgid "Control the display of links used in your site's content."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:180, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:299
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:181
+msgid "Configure the settings for the scroll to top arrow displayed on your site."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:189
+msgid "Change the colors used on your blog post page."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:209
+msgid "Background Colors"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:289, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:149, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:202
+msgid "Post Meta"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:318
+msgid "Change the margin of your site's header."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:326
+msgid "Change the padding of your site's header."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:334
+msgid "Change the border of your site's header."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:339, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:383, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:423
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:342
+msgid "Change the box shadow of your site's header."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:348, inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:392
+msgid "Border Radius"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:351
+msgid "Change the border radius of your site's header."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:362
+msgid "Change the margin of your site's footer."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:370
+msgid "Change the padding of your site's footer."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:378
+msgid "Change the border of your site's footer."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:386
+msgid "Change the box shadow of your site's footer."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:395
+msgid "Change the border radius of your site's footer."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:405
+msgid "Change the margin of your blog posts."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:412
+msgid "Change the padding of your blog posts."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:419
+msgid "Change the border of your blog posts."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:426
+msgid "Change the box shadow of your blog posts."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:430
+msgid "Pre-Loader"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:433
+msgid "Configure what is displayed while your pages load."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:449
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:451
+msgid "This section controls the global layout of WooCommerce pages on your website."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer/sections.config.php:460
+msgid "This section controls the container for your WooCommerce pages."
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:92
+msgid "Contact Blocks"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:97
+msgid "Attribution"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:106
+msgid "Title Design"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:117
+msgid "Page Content"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:132
+msgid "Page Title Display"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:140
+msgid "Post Title Display"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:158
+msgid "Post Container"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:167
+msgid "Page Container"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:176
+msgid "Navigation Links"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:185, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:226
+msgid "Category Links"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:194, inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:218
+msgid "Tag Links"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:234
+msgid "Comments"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/edit.config.php:242
+msgid "Post Title Design"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:16, inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:434
+msgid "Branding + Menu"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:55, inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:473
+msgid "Branding + Menu + Social Icons"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:100, inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:518
+msgid "Menu + Branding"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:139, inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:557
+msgid "Branding and Menu + Social"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:189, inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:607
+msgid "Branding + Social Icons w/ Center Menu"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:239, inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:657
+msgid "Branding + Social Icons and Menu"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:289, inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:707
+msgid "Centered Branding above Menu"
+msgstr ""
+
+#: inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:333, inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:377, inc/boldgrid-theme-framework/includes/configs/customizer-options/presets.config.php:751
+msgid "Centered Menu above Branding"
+msgstr ""

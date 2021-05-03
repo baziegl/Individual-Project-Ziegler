@@ -1,0 +1,210 @@
+# Translation of WordPress.com - Themes - Orvis in Polish
+# This file is distributed under the same license as the WordPress.com - Themes - Orvis package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-29 08:11:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pl\n"
+"Project-Id-Version: WordPress.com - Themes - Orvis\n"
+
+#: inc/wpcom-colors.php:121
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/wpcom-colors.php:244
+msgid "Links & Meta"
+msgstr "Odnośniki i Meta"
+
+#: inc/wpcom-colors.php:288
+msgid "Borders & Details"
+msgstr "Obramowania i szczegóły"
+
+#: inc/wpcom-colors.php:27
+msgid "Background"
+msgstr "Tło"
+
+#: single.php:30
+msgid "Published in"
+msgstr "Obublikowano w"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:25
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Czytaj dalej %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/orvis/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Szablon strony Portfolio"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Brak wyników wyszukiwania. Proszę spróbować ponownie z innymi słowami."
+
+#: template-parts/content-page.php:27
+#: template-parts/content-portfolio-single.php:26
+#: template-parts/content-single.php:29 template-parts/content.php:35
+msgid "Page"
+msgstr "Strona"
+
+#: single-jetpack-portfolio.php:30 single.php:39
+msgid "Previous post:"
+msgstr "Poprzedni wpis:"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gotów, by opublikować pierwszy post? <a href=\"%1$s\">Zacznij tutaj</a>. "
+
+#: single-jetpack-portfolio.php:27 single.php:36
+msgid "Next post:"
+msgstr "Następny wpis:"
+
+#: single-jetpack-portfolio.php:29 single.php:38
+msgid "Previous"
+msgstr "Poprzednie"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla zapytania &#8222;%s&#8221;"
+
+#: single-jetpack-portfolio.php:26 single.php:35
+msgid "Next"
+msgstr "Następne"
+
+#: page-templates/portfolio-page.php:87 template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nie udało się znaleźć tego, czego szukasz. Być może wyszukiwanie przyniesie lepsze rezultaty."
+
+#: page-templates/portfolio-page.php:83
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gotowy do opublikowania pierwszego projektu? <a href=\"%1$s\">Zacznij tutaj</a>."
+
+#: page-templates/portfolio-page.php:77 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niczego nie znaleziono"
+
+#: page-templates/portfolio-page.php:35
+msgid "Edit"
+msgstr "Edytuj"
+
+#: page-templates/portfolio-page.php:27 template-parts/content-page.php:23
+#: template-parts/content-portfolio-single.php:22
+#: template-parts/content-single.php:25 template-parts/content.php:31
+msgid "Pages:"
+msgstr "Strony:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:88 template-parts/content-page.php:38
+msgid "Edit %s"
+msgstr "Edytuj %s"
+
+#: inc/template-tags.php:81
+msgid "1 Comment"
+msgstr "1 komentarz"
+
+#: inc/template-tags.php:81
+msgid "% Comments"
+msgstr "% komentarzy"
+
+#: inc/template-tags.php:57
+msgid "Featured Post"
+msgstr "Wyróżniony wpis"
+
+#: inc/template-tags.php:81
+msgid "Leave a comment"
+msgstr "Dodaj komentarz"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:18 inc/template-tags.php:27 inc/template-tags.php:67
+#: inc/template-tags.php:73
+msgid ", "
+msgstr ", "
+
+#: inc/jetpack.php:112 inc/jetpack.php:206
+#: template-parts/content-portfolio-archive.php:32
+msgid "Older projects"
+msgstr "Starsze projekty"
+
+#: inc/jetpack.php:113 template-parts/content-portfolio-archive.php:33
+msgid "Newer projects"
+msgstr "Nowsze projekty"
+
+#: inc/jetpack.php:114 template-parts/content-portfolio-archive.php:34
+msgid "Portfolio navigation"
+msgstr "Pokaż nawigację portfolio"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Przeskocz do treści"
+
+#: header.php:40
+msgid "Menu"
+msgstr "Menu"
+
+#. translators: If there are characters in your language that are not supported
+#. by Karla, translate this to 'off'. Do not translate into your own language.
+#: functions.php:122
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:154
+msgid "expand child menu"
+msgstr "rozwiń menu potomne"
+
+#: functions.php:155
+msgid "collapse child menu"
+msgstr "zwiń menu potomne"
+
+#: functions.php:49 header.php:42
+msgid "Primary Menu"
+msgstr "Menu główne"
+
+#: functions.php:98
+msgid "Sidebar"
+msgstr "Panel boczny"
+
+#: footer.php:23
+msgid "Theme: %1$s by %2$s."
+msgstr "Motyw: %1$s. Autor motywu: %2$s."
+
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://pl.wordpress.org/"
+
+#: footer.php:21
+msgid "Proudly powered by %s"
+msgstr "Dumnie wspierane przez WordPressa"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Możliwość komentowania jest wyłączona."
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Jedna myśl na temat &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s myśli na temat &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s myśli na temat &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:46
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Spróbuj poszukać w miesięcznym archiwum. %1$s"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "Najczęściej używane kategorie"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Wygląda na to, że nic nie zostało znalezione w tym miejscu. Może spróbuj jednego z poniższych linków lub wyszukiwarki?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Nie udało się znaleźć pożądanej strony."

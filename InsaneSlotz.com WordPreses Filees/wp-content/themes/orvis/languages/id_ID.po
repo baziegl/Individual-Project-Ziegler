@@ -1,0 +1,185 @@
+# Translation of WordPress.com - Themes - Orvis in Indonesian
+# This file is distributed under the same license as the WordPress.com - Themes - Orvis package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-07 02:48:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: WordPress.com - Themes - Orvis\n"
+
+#: inc/wpcom-colors.php:121
+msgid "Text"
+msgstr "Teks"
+
+#: inc/wpcom-colors.php:244
+msgid "Links & Meta"
+msgstr "Tautan & Meta"
+
+#: inc/wpcom-colors.php:288
+msgid "Borders & Details"
+msgstr "Batas & Rincian"
+
+#: inc/wpcom-colors.php:27
+msgid "Background"
+msgstr "Latar belakang"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/orvis/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Templat Halaman Portofolio"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:25
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lanjutkan membaca %s <span class=\"meta-nav\">→</span>"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata yang anda cari. Silahkan coba lagi dengan kata kunci yang lain"
+
+#: template-parts/content-page.php:27
+#: template-parts/content-portfolio-single.php:26
+#: template-parts/content-single.php:29 template-parts/content.php:35
+msgid "Page"
+msgstr "Laman"
+
+#: single-jetpack-portfolio.php:30 single.php:39
+msgid "Previous post:"
+msgstr "Pos sebelumnya:"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sudah siap menerbitkan pos pertamamu? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: single-jetpack-portfolio.php:27 single.php:36
+msgid "Next post:"
+msgstr "Pos berikutnya:"
+
+#: single-jetpack-portfolio.php:29 single.php:38
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: single-jetpack-portfolio.php:26 single.php:35
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: page-templates/portfolio-page.php:83
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap menerbitkan proyek pertama Anda? <a href=\"%1$s\">Mulai dari sini</a>."
+
+#: page-templates/portfolio-page.php:87 template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Rupanya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian dapat membantu."
+
+#: page-templates/portfolio-page.php:77 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Tidak ada yang ditemukan"
+
+#: page-templates/portfolio-page.php:35
+msgid "Edit"
+msgstr "Sunting"
+
+#: page-templates/portfolio-page.php:27 template-parts/content-page.php:23
+#: template-parts/content-portfolio-single.php:22
+#: template-parts/content-single.php:25 template-parts/content.php:31
+msgid "Pages:"
+msgstr "Halaman:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:88 template-parts/content-page.php:38
+msgid "Edit %s"
+msgstr "Sunting %s"
+
+#: inc/template-tags.php:81
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/template-tags.php:81
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/template-tags.php:57
+msgid "Featured Post"
+msgstr "Pos Istimewa"
+
+#: inc/template-tags.php:81
+msgid "Leave a comment"
+msgstr "Tinggalkan komentar"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:18 inc/template-tags.php:27 inc/template-tags.php:67
+#: inc/template-tags.php:73
+msgid ", "
+msgstr ", "
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Lanjut ke konten"
+
+#: header.php:40
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:154
+msgid "expand child menu"
+msgstr "perlebar menu anak"
+
+#: functions.php:155
+msgid "collapse child menu"
+msgstr "persempit menu anak"
+
+#: functions.php:49 header.php:42
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: functions.php:98
+msgid "Sidebar"
+msgstr "Bilah Sisi"
+
+#: footer.php:23
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s oleh %2$s."
+
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:21
+msgid "Proudly powered by %s"
+msgstr "Dengan bangga bertenaga %s"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#. translators: %1$s: smiley
+#: 404.php:46
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Coba cari di arsip bulanan. %1$s"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu tanggapan untuk &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanggapan untuk &ldquo;%2$s&rdquo;"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nampaknya tidak ada yang ditemukan di lokasi. Mungkin coba salah satu tautan di bawah atau telusuri?"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "Kategori Paling Banyak Digunakan"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak ditemukan."

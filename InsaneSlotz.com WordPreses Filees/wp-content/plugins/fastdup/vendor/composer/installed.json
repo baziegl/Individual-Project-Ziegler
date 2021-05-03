@@ -1,0 +1,98 @@
+[
+    {
+        "name": "ifsnop/mysqldump-php",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ifsnop/mysqldump-php.git",
+            "reference": "0ca7b7f06c4a669a0167ef40e1d72f82153a9130"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ifsnop/mysqldump-php/zipball/0ca7b7f06c4a669a0167ef40e1d72f82153a9130",
+            "reference": "0ca7b7f06c4a669a0167ef40e1d72f82153a9130",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "4.8.36",
+            "squizlabs/php_codesniffer": "1.*"
+        },
+        "time": "2019-08-05T15:11:57+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Ifsnop\\": "src/Ifsnop/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0-or-later"
+        ],
+        "authors": [
+            {
+                "name": "Diego Torres",
+                "homepage": "https://github.com/ifsnop",
+                "role": "Developer"
+            }
+        ],
+        "description": "PHP version of mysqldump cli that comes with MySQL",
+        "homepage": "https://github.com/ifsnop/mysqldump-php",
+        "keywords": [
+            "PHP7",
+            "database",
+            "hhvm",
+            "mariadb",
+            "mysql",
+            "mysql-backup",
+            "mysqldump",
+            "pdo",
+            "php",
+            "php5",
+            "sql"
+        ]
+    },
+    {
+        "name": "neitanod/forceutf8",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/neitanod/forceutf8.git",
+            "reference": "c4222087168fe8476bde930e2ad04d111f36f53b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/neitanod/forceutf8/zipball/c4222087168fe8476bde930e2ad04d111f36f53b",
+            "reference": "c4222087168fe8476bde930e2ad04d111f36f53b",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2019-04-05T04:08:01+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "ForceUTF8\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Sebastián Grignoli",
+                "email": "grignoli@gmail.com"
+            }
+        ],
+        "description": "PHP Class Encoding featuring popular Encoding::toUTF8() function --formerly known as forceUTF8()-- that fixes mixed encoded strings.",
+        "homepage": "https://github.com/neitanod/forceutf8"
+    }
+]

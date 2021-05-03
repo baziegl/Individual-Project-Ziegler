@@ -1,0 +1,272 @@
+# Translation of WordPress.com - Themes - Scrawl in Chuvash
+# This file is distributed under the same license as the WordPress.com - Themes - Scrawl package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-06 14:34:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cv_RU\n"
+"Project-Id-Version: WordPress.com - Themes - Scrawl\n"
+
+#: inc/wpcom-colors.php:37
+msgid "Main Accent"
+msgstr "Тĕп Акцент"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lora, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:125
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#: content.php:35
+msgid "Featured"
+msgstr "Ятарлăн сĕннĕ"
+
+#: single.php:17
+msgid "Next post"
+msgstr "Кайранхи публикаци"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s валли Шырав результачĕсем"
+
+#: single.php:17
+msgid "Previous post"
+msgstr "Унчченхи публикаци"
+
+#: inc/template-tags.php:275
+msgid "All %s posts"
+msgstr "Пур %s публикаци"
+
+#: inc/template-tags.php:189
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">%1$s числара</span><span class=\"byline\"> %2$s публикациленĕ</span>"
+
+#: inc/template-tags.php:182
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:120
+msgid "Archives"
+msgstr "Архив"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:118
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:111
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Чатсем"
+
+#: inc/template-tags.php:114
+msgid "Archives: %s"
+msgstr "Архивсем: %s"
+
+#: inc/template-tags.php:107
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Статуссем"
+
+#: inc/template-tags.php:109
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Аудио"
+
+#: inc/template-tags.php:103
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Цитатăсем"
+
+#: inc/template-tags.php:105
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Каçăсем"
+
+#: inc/template-tags.php:99
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Сăнсем"
+
+#: inc/template-tags.php:101
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Видеосем"
+
+#: inc/template-tags.php:97
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галерейăсем"
+
+#: inc/template-tags.php:95
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Кĕскен çырнисем"
+
+#: inc/template-tags.php:92
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:92
+msgid "Day: %s"
+msgstr "Кун: %s"
+
+#: inc/template-tags.php:90
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:90
+msgid "Month: %s"
+msgstr "Уйăх: %s"
+
+#: inc/template-tags.php:88
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:88
+msgid "Year: %s"
+msgstr "Çул: %s"
+
+#: inc/template-tags.php:86
+msgid "Author: %s"
+msgstr "Авторĕ: %s"
+
+#: inc/template-tags.php:84
+msgid "Tag: %s"
+msgstr "Тег: %s"
+
+#: inc/template-tags.php:82
+msgid "Category: %s"
+msgstr "Категори: %s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Публикаци навигацийĕ"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Çĕнĕрех постсем"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Кивĕрех постсем"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Публикацисен навигацийĕ"
+
+#: inc/extras.php:103
+msgid "Cancel reply"
+msgstr "Ответа пăрахăçлас"
+
+#: inc/extras.php:67
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/customizer.php:20
+msgid "Theme"
+msgstr "Темă"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "Тÿрех контент патне сиксе каç"
+
+#: functions.php:50
+msgid "Social Links"
+msgstr "Соцсеть каççисем"
+
+#: functions.php:49 header.php:25
+msgid "Primary Menu"
+msgstr "Чи тĕп меню"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Стиль: %1$s by %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "%s пулăшнипе ĕçлет"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:21
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Малалла вулас <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:39 content.php:41
+msgid "1"
+msgstr "1"
+
+#: content-single.php:39 content.php:41
+msgid "0"
+msgstr "0"
+
+#: content-page.php:25 content-single.php:42 content.php:44
+msgid "Edit"
+msgstr "Тÿрлетес"
+
+#: content-page.php:18 content-single.php:18 content.php:24
+msgid "Pages:"
+msgstr "Страницăсем:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Эсир шыракан япала тупăнмасть пек туйăнать. Тен шырав туса пăхни усăллă пулĕ."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Каçарăр та, анчах сирĕн шырав сăмахĕсене нимĕн тÿр килмерĕ. Тархасшăн, урăх сăмахсем çырса кĕртсе тепĕр хут туса пăхăр."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ну, хатĕр-и пĕрремĕш публикаци тума? <a href=\"%1$s\">Кунта пуçлăр</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ним тупăнмарĕ"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "Комментари çырассине чарнă."
+
+#: comments.php:50
+msgid "Newer Comments"
+msgstr "Çĕнĕрех Комментарисем"
+
+#: comments.php:49
+msgid "Older Comments"
+msgstr "Кивĕрех Комментарисем"
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr "Комментари навигацийĕ"
+
+#: comments.php:39
+msgid "Reply"
+msgstr "Ответлес"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; çине пĕр шухăш"
+msgstr[1] "&ldquo;%2$s&rdquo; çине %1$s шухăш"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Ку вырăнта нимĕнте тупăнмарĕ пек. Тен Шырав туса пăхас?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ак тата! Ку страница тупăнмарĕ."

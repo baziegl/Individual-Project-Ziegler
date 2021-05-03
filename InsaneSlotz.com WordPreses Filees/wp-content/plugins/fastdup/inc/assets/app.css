@@ -1,0 +1,116 @@
+body{
+  background: #f1f1f1;
+}
+.ant-layout {
+  background: #f1f1f1 !important;
+}
+
+.ant-form-item {
+  margin: 0 0 15px;
+}
+
+.ant-form-item-label {
+  line-height: unset;
+}
+
+.ant-select-selection,
+.ant-input {
+  border-radius: 0;
+  background: #fbfbfb;
+}
+
+.submit {
+  text-align: center;
+}
+
+.message {
+  overflow: auto;
+  max-height: 200px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+
+}
+
+.ant-form-item-required:before {
+  display: none;
+}
+
+.ant-form-item-label label:after {
+  margin: 0 8px 0 0;
+}
+
+.steps-content {
+  border-radius: 0;
+  padding: 30px;
+  margin: auto;
+  background-color: white;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .13);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .13);
+
+}
+.ant-steps{
+  margin-bottom: 30px;
+}
+.steps-action {
+  border-top: 1px solid #f1f1f1;
+  padding-top: 15px;
+  display: flex;
+  align-self: flex-end;
+  justify-content: flex-end;
+}
+
+.installer {
+  margin: auto;
+  max-width: 600px;
+}
+#permission, #installer-form, #done{
+  height: 475px;
+}
+#done{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#permission h3{
+  color: black;
+  margin-bottom: 20px;
+}
+#done h3{
+  color: #52c41a;
+  margin: 20px;
+}
+.btn-admin-login{
+  margin-left: 8px;
+  text-align: center;
+}
+#done i{
+  font-size: 30px;
+  padding-right: 5px;
+}
+.system-item{
+  border-bottom: 1px solid #f1f1f1;
+   padding-bottom: 14px;
+}
+.system-item .title{
+  font-weight: bold;
+}
+.system-item:last-child {
+  border: none;
+}
+.notice-step-2 p{
+  font-size: 13px;
+  color: rgba(0,0,0,.85);
+}

@@ -1,0 +1,198 @@
+# Translation of WordPress.com - Themes - Orvis in Turkish
+# This file is distributed under the same license as the WordPress.com - Themes - Orvis package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-16 11:53:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: WordPress.com - Themes - Orvis\n"
+
+#: inc/wpcom-colors.php:121
+msgid "Text"
+msgstr "Metin"
+
+#: inc/wpcom-colors.php:244
+msgid "Links & Meta"
+msgstr "Bağlantılar ve Meta Veriler"
+
+#: inc/wpcom-colors.php:288
+msgid "Borders & Details"
+msgstr "Kenarlıklar ve Ayrıntılar"
+
+#: inc/wpcom-colors.php:27
+msgid "Background"
+msgstr "Arkaplan"
+
+#: single.php:30
+msgid "Published in"
+msgstr "Kategori"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/orvis/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Portföy Sayfası Şablonu"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:25
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Okumaya devam et %s <span class=\"meta-nav\">→</span>"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz fakat aradığınız kriterler ile örtüşen sonuç bulunamadı. Lütfen başka kriterler ile tekrar deneyin."
+
+#: template-parts/content-page.php:27
+#: template-parts/content-portfolio-single.php:26
+#: template-parts/content-single.php:29 template-parts/content.php:35
+msgid "Page"
+msgstr "Sayfa"
+
+#: single-jetpack-portfolio.php:30 single.php:39
+msgid "Previous post:"
+msgstr "Önceki yazı:"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: single-jetpack-portfolio.php:27 single.php:36
+msgid "Next post:"
+msgstr "Sıradaki Yazı:"
+
+#: single-jetpack-portfolio.php:29 single.php:38
+msgid "Previous"
+msgstr "Önceki"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Arama sonuçları: %s"
+
+#: single-jetpack-portfolio.php:26 single.php:35
+msgid "Next"
+msgstr "Sonraki"
+
+#: page-templates/portfolio-page.php:83
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk projenizi yayımlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: page-templates/portfolio-page.php:87 template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aradığınız sayfa bulunamadı. Belki arama kutusu aradığınızı bulma konusunda yardımcı olabilir."
+
+#: page-templates/portfolio-page.php:77 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunmadı"
+
+#: page-templates/portfolio-page.php:35
+msgid "Edit"
+msgstr "Düzenle"
+
+#: page-templates/portfolio-page.php:27 template-parts/content-page.php:23
+#: template-parts/content-portfolio-single.php:22
+#: template-parts/content-single.php:25 template-parts/content.php:31
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:88 template-parts/content-page.php:38
+msgid "Edit %s"
+msgstr "%s Yazısını Düzenle"
+
+#: inc/template-tags.php:81
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: inc/template-tags.php:81
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: inc/template-tags.php:57
+msgid "Featured Post"
+msgstr "Öne Çıkarılmış Yazı"
+
+#: inc/template-tags.php:81
+msgid "Leave a comment"
+msgstr "Yorum bırakın"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:18 inc/template-tags.php:27 inc/template-tags.php:67
+#: inc/template-tags.php:73
+msgid ", "
+msgstr ", "
+
+#: inc/jetpack.php:113 template-parts/content-portfolio-archive.php:33
+msgid "Newer projects"
+msgstr "Yeni projeler"
+
+#: inc/jetpack.php:112 inc/jetpack.php:206
+#: template-parts/content-portfolio-archive.php:32
+msgid "Older projects"
+msgstr "Eski projeler"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: header.php:40
+msgid "Menu"
+msgstr "Menü"
+
+#: functions.php:154
+msgid "expand child menu"
+msgstr "Alt menüyü genişlet"
+
+#: functions.php:155
+msgid "collapse child menu"
+msgstr "Alt menüyü toparla"
+
+#: functions.php:49 header.php:42
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: functions.php:98
+msgid "Sidebar"
+msgstr "Yan Menü"
+
+#: footer.php:23
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %2$s tarafından %1$s."
+
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:21
+msgid "Proudly powered by %s"
+msgstr "%s gururla sunar"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#. translators: %1$s: smiley
+#: 404.php:46
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Aylık arşivlere bakmayı deneyin. %1$s"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; için bir yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; için %1$s yorum"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Burada hiçbir şeyin bulunmadığı görülüyor. Belki alttaki bağlantılardan birini veya bir arama yapmayı denemelisin?"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "En çok Kullanılan Kategoriler"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Off! Bu sayfa bulunamadı."

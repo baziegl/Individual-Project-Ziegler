@@ -1,0 +1,7 @@
+/* Product Titles */
+.product .product_title {
+	color: currentColor; /* needs testing for proper inheritence across all themes */
+	&:before {
+		all: initial;
+	}
+}

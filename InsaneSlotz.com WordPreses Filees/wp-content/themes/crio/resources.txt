@@ -1,0 +1,135 @@
+== Resources ==
+The following resources are used in the production of creating the experience this theme provides.  Additional images, code, and documentation included with this package is released under the same license as this theme.  For a full list of development dependencies, license information, and URLs - please refer to licenses.txt.  A special thanks goes out to all of the developers who have spent their time and energy to help make something special and share it with the rest of the world!
+
+= normalize.css =
+* © 2012-2018 Nicolas Gallagher and Jonathan Neal
+* MIT
+
+= Underscores =
+* © 2012-2018 Automattic, Inc.
+* GPL-2.0-or-later
+
+= Buttons 2.0 =
+* © 2012-2016 Alex Wolfe and Rob Levin
+* Apache-2.0
+
+= animate.css =
+* © 2018 Daniel Eden
+* MIT
+
+= bootstrap-sass =
+* © 2011-2016 Twitter, Inc, 2011-2016 The Bootstrap Authors
+* MIT
+
+= Color.js =
+* © 2008-2010, Andrew Brehaut, Tim Baumann, Matt Wilson
+* BSD 2-Clause "Simplified" License
+
+= css-vars-ponyfill =
+* © 2018 John Hildenbiddle
+* MIT
+
+= DOM Ready (@wordpress/dom-ready) =
+* © 2011-2019 The WordPress Contributors
+* GPL-2.0-or-later
+
+= Hooks (@wordpress/hooks) =
+* © 2011-2019 The WordPress Contributors
+* GPL-2.0-or-later
+
+= float-labels.js =
+* © 2015 Gemini Labs LLC <paul@geminilabs.io>
+* MIT
+
+= FontAwesome Font v4.7.0 =
+* © Font Awesome by Dave Gandy - http://fontawesome.io
+* OFL-1.1
+
+= FontAwesome Icons v4.7.0 =
+* © Font Awesome by Dave Gandy - http://fontawesome.io
+* CC-BY-4.0
+
+= FontAwesome Code v4.7.0 =
+* © Font Awesome by Dave Gandy - http://fontawesome.io
+* MIT
+
+= Hamburgers =
+* © 2016 Jonathan Suh <hello@jonsuh.com> (jonsuh.com)
+* MIT
+
+= hover.css =
+* © 2017 Ian Lunn Design Limited
+* MIT
+
+= hero-patterns =
+* © Alec Lomas
+* MIT
+
+= jquery-goup =
+* © 2014-2018 Daniele Lenares
+* GPL-3.0-or-later or MIT
+
+= jQuery.NiceScroll =
+* © 2011-14 InuYaksa
+* MIT
+
+= jarallax =
+* © 2018 nK
+* MIT
+
+= Kirki Toolkit =
+* © 2017 Aristeides Stathopoulos
+* MIT
+
+= lodash =
+* © JS Foundation and other contributors <https://js.foundation/>
+* MIT
+
+= Modernizr =
+* © 2009-2018 Modernizr
+* MIT
+
+= Sass.js =
+* © 2015 Rodney Rehm
+* MIT
+
+= scssphp =
+* © 2015 Leaf Corcoran, http://leafo.github.io/scssphp
+* MIT
+
+= SmartMenus =
+* © Vasil Dinkov, Vadikom Web Ltd.
+* MIT
+
+= WOW.js =
+* © 2016 Thomas Grainger
+* MIT
+
+= Babel Runtime Core JS 2 (@babel/runtime-corejs2) =
+* © 2014-present Sebastian McKenzie and other contributors
+* MIT
+
+= images/typing-on-laptop-closeup.jpg =
+* https://stocksnap.io/photo/DOLNAISHLZ
+* © Burst
+* CC0-1.0
+
+= images/people-in-office.jpg =
+* https://stocksnap.io/photo/Y2AHVPYB51
+* © Brodie Vissers
+* CC0-1.0
+
+= images/man-on-computer.jpg =
+* https://stocksnap.io/photo/XBL8EKLLAK
+* © Bruce Mars
+* CC0-1.0
+
+= images/blog-featured.jpg =
+* https://stocksnap.io/photo/35DZYNX6SG
+* © Porapak Apichodilok
+* CC0-1.0
+
+= images/contact-featured.jpg =
+* https://stocksnap.io/photo/0P9709P1DQ
+* © Luca Bravo
+* CC0-1.0

@@ -1,0 +1,219 @@
+# Translation of WordPress.com - Themes - Orvis in Romanian
+# This file is distributed under the same license as the WordPress.com - Themes - Orvis package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 08:09:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: WordPress.com - Themes - Orvis\n"
+
+#: inc/wpcom-colors.php:288
+msgid "Borders & Details"
+msgstr "Chenare și detalii"
+
+#: inc/wpcom-colors.php:244
+msgid "Links & Meta"
+msgstr "Legături și meta"
+
+#: inc/wpcom-colors.php:121
+msgid "Text"
+msgstr "Text"
+
+#: inc/wpcom-colors.php:27
+msgid "Background"
+msgstr "Fundal"
+
+#: single.php:30
+msgid "Published in"
+msgstr "Publicat în"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/orvis/page-templates/portfolio-page.php
+msgid "Portfolio Page Template"
+msgstr "Șablon pagină portofoliu"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/orvis/style.css
+msgid "Orvis is a portfolio theme crafted with designers and photographers in mind. It's a minimalist, powerful, and flexible theme that puts the focus on your projects."
+msgstr "Orvis este o temă de portofoliu creată manual, cu designeri și fotografi în minte. Este o temă minimalistă, puternică și flexibilă care pune accentul pe proiectele tale."
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:25
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Citește în continuare %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:27
+#: template-parts/content-portfolio-single.php:26
+#: template-parts/content-single.php:29 template-parts/content.php:35
+msgid "Page"
+msgstr "Pagină"
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nimic nu se potrivește termenilor căutării tale. Te rog încearcă din nou cu cuvinte cheie diferite."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gata să publici primul tău articol? <a href=\"%1$s\">Poți începe aici</a>."
+
+#: single-jetpack-portfolio.php:30 single.php:39
+msgid "Previous post:"
+msgstr "Articol anterior:"
+
+#: single-jetpack-portfolio.php:29 single.php:38
+msgid "Previous"
+msgstr "Anterior"
+
+#: single-jetpack-portfolio.php:27 single.php:36
+msgid "Next post:"
+msgstr "Articol următor:"
+
+#: single-jetpack-portfolio.php:26 single.php:35
+msgid "Next"
+msgstr "Următor"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Rezultatele căutării pentru: %s"
+
+#: page-templates/portfolio-page.php:87 template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Se pare că nu putem găsi ceea ce cauți tu. Poate o căutare ar fi de ajutor."
+
+#: page-templates/portfolio-page.php:83
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gata să-ți publici primul proiect? <a href=\"%1$s\">Începe de aici</a>."
+
+#: page-templates/portfolio-page.php:77 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nimic găsit"
+
+#: page-templates/portfolio-page.php:35
+msgid "Edit"
+msgstr "Editare"
+
+#: page-templates/portfolio-page.php:27 template-parts/content-page.php:23
+#: template-parts/content-portfolio-single.php:22
+#: template-parts/content-single.php:25 template-parts/content.php:31
+msgid "Pages:"
+msgstr "Pagini:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:88 template-parts/content-page.php:38
+msgid "Edit %s"
+msgstr "Editează %s"
+
+#: inc/template-tags.php:81
+msgid "% Comments"
+msgstr "% comentarii"
+
+#: inc/template-tags.php:81
+msgid "1 Comment"
+msgstr "Un comentariu"
+
+#: inc/template-tags.php:81
+msgid "Leave a comment"
+msgstr "Lasă un comentariu"
+
+#: inc/template-tags.php:57
+msgid "Featured Post"
+msgstr "Articol reprezentativ"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:18 inc/template-tags.php:27 inc/template-tags.php:67
+#: inc/template-tags.php:73
+msgid ", "
+msgstr ", "
+
+#: inc/jetpack.php:114 template-parts/content-portfolio-archive.php:34
+msgid "Portfolio navigation"
+msgstr "Navigare în portofoliu"
+
+#: inc/jetpack.php:113 template-parts/content-portfolio-archive.php:33
+msgid "Newer projects"
+msgstr "Proiecte mai noi"
+
+#: inc/jetpack.php:112 inc/jetpack.php:206
+#: template-parts/content-portfolio-archive.php:32
+msgid "Older projects"
+msgstr "Proiecte mai vechi"
+
+#: inc/customizer.php:24
+msgid "Hide page title on Portfolio Page Template"
+msgstr "Ascunde titlu pagină în șablon pagină portofoliu"
+
+#: header.php:40
+msgid "Menu"
+msgstr "Meniu"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#: functions.php:155
+msgid "collapse child menu"
+msgstr "restrânge meniul copil"
+
+#: functions.php:154
+msgid "expand child menu"
+msgstr "extinde meniul copil"
+
+#. translators: If there are characters in your language that are not supported
+#. by Karla, translate this to 'off'. Do not translate into your own language.
+#: functions.php:122
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:98
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: functions.php:49 header.php:42
+msgid "Primary Menu"
+msgstr "Meniu principal"
+
+#: footer.php:23
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: footer.php:21
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://ro.wordpress.org/"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un gând despre &#8222;%2$s&#8221;"
+msgstr[1] "%1$s gânduri despre &#8222;%2$s&#8221;"
+msgstr[2] "%1$s de gânduri despre &#8222;%2$s&#8221;"
+
+#. translators: %1$s: smiley
+#: 404.php:46
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Încearcă să cauți în arhivele lunare. %1$s"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "Cele mai folosite categorii"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Se pare că nu a fost găsit nimic la această locație. Poate încerci una din legăturile de mai jos sau o căutare?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Acea pagină nu poate fi găsită."

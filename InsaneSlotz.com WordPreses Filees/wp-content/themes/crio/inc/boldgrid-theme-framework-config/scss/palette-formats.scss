@@ -1,0 +1,35 @@
+/*------------------------------------------------------------------------
+# Palettes
+------------------------------------------------------------------------*/
+.palette-primary {
+	// Any custom color palette code goes here.
+	.color1-background-alpha {
+    background-color: rgba( $palette-primary_1, 0.7 );
+  }
+  .color2-background-alpha {
+    background-color: rgba( $palette-primary_2, 0.7 );
+  }
+  .color3-background-alpha {
+    background-color: rgba( $palette-primary_3, 0.7 );
+  }
+  .color4-background-alpha {
+    background-color: rgba( $palette-primary_4, 0.7 );
+  }
+  .color5-background-alpha {
+    background-color: rgba( $palette-primary_5, 0.7 );
+  }
+
+  .boldgrid-shortcode .bgc-single-article {
+	  background-color: $palette-primary_3;
+	  color: $text-contrast-palette-primary_3;
+  }
+
+  .bgc-single-image .date {
+	  background-color: rgba( $palette-primary_1, 0.7 );
+	  color: $text-contrast-palette-primary-1;
+  }
+
+  .bgc-single-image .image-opacity {
+	  background-color: rgba( $palette-primary_2, 0.3 );
+  }
+}

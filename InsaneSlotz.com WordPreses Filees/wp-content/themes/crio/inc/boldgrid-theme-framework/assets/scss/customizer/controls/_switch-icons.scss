@@ -1,0 +1,25 @@
+.customize-control-kirki-radio-buttonset .switch-label {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	justify-items: center;
+	align-content: center;
+
+	.dashicons, .fa, [class^="icon-"], [class*=" icon-"] {
+		font-size: 16px;
+		padding-right: 5px;
+	}
+	.fa {
+		font-size: 16px;
+		vertical-align: bottom;
+	}
+	[class^="icon-"], [class*=" icon-"] {
+		vertical-align: middle;
+
+		&:before {
+			vertical-align: middle;
+			font-size: 16px;
+			padding: 0;
+		}
+	}
+}

@@ -1,0 +1,354 @@
+# Translation of WordPress.com - Themes - Sela in Norwegian
+# This file is distributed under the same license as the WordPress.com - Themes - Sela package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-27 20:50:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: no\n"
+"Project-Id-Version: WordPress.com - Themes - Sela\n"
+
+#: image.php:44
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a>"
+msgstr "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> på <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a>"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:145
+msgid "Continue reading %s"
+msgstr "Fortsett %s"
+
+#: functions.php:161
+msgid "Second Front Page Widget Area"
+msgstr "Andre widget-område på forside"
+
+#: functions.php:153
+msgid "First Front Page Widget Area"
+msgstr "Første widget-område på forside"
+
+#: functions.php:145
+msgid "Third Footer Widget Area"
+msgstr "Tredje bunnområde for widgeter"
+
+#: functions.php:137
+msgid "Second Footer Widget Area"
+msgstr "Andre bunnområde for widgeter"
+
+#: functions.php:129
+msgid "First Footer Widget Area"
+msgstr "Første bunnområde for widgeter"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/sela/page-templates/grid-page.php
+msgid "Grid Page"
+msgstr "Rutenettside"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/sela/page-templates/full-width-page.php
+msgid "Full Width Page"
+msgstr "Side med full bredde"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/sela/page-templates/front-page.php
+msgid "Front Page"
+msgstr "Forside"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/sela/style.css
+msgid "https://wordpress.com/themes/"
+msgstr "https://wordpress.com/themes/"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/sela/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:426
+msgid "%1$s: %2$s"
+msgstr "%1$s @ %2$s"
+
+#: inc/template-tags.php:428
+msgid "Archives"
+msgstr "Arkiver"
+
+#: inc/template-tags.php:417
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:422
+msgid "Archives: %s"
+msgstr "Arkiv: %s"
+
+#: inc/template-tags.php:419
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Samtaler"
+
+#: inc/template-tags.php:413
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Lenker"
+
+#: inc/template-tags.php:415
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuser"
+
+#: inc/template-tags.php:411
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Sitater"
+
+#: inc/template-tags.php:407
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bilder"
+
+#: inc/template-tags.php:409
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Filmer"
+
+#: inc/template-tags.php:405
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: inc/template-tags.php:403
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Notiser"
+
+#: inc/template-tags.php:400
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:400
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/template-tags.php:398
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:398
+msgid "Month: %s"
+msgstr "Måned: %s"
+
+#: inc/template-tags.php:396
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:396
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: inc/template-tags.php:394
+msgid "Author: %s"
+msgstr "Forfatter: %s"
+
+#: inc/template-tags.php:390
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:392
+msgid "Tag: %s"
+msgstr "Merkelapp: %s"
+
+#: inc/template-tags.php:333 inc/template-tags.php:335
+msgid "Posted in: %1$s"
+msgstr "Publisert i: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:325 inc/template-tags.php:333
+msgid "Tagged: %2$s"
+msgstr "Stikkord: %2$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:317
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:200
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:200
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:200
+msgid "Leave a comment"
+msgstr "Legg igjen en kommentar"
+
+#: inc/template-tags.php:189
+msgid "Featured"
+msgstr "Fremhevet"
+
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar avventer moderasjon."
+
+#: inc/template-tags.php:89
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/template-tags.php:84
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">sier:</span>"
+
+#: inc/template-tags.php:75
+msgid "Pingback:"
+msgstr "Tilbaketråkk:"
+
+#: inc/template-tags.php:50
+msgid "Post navigation"
+msgstr "Innleggsnavigasjon"
+
+#: inc/template-tags.php:19
+msgid "Posts navigation"
+msgstr "Innleggsnavigasjon"
+
+#: inc/extras.php:117
+msgid "Page %s"
+msgstr "Side %s"
+
+#: image.php:33
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "Publisert den <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> kl. <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> på <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: header.php:37
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Gå til innhold"
+
+#: functions.php:121
+msgid "Main Sidebar"
+msgstr "Primær sidekolonne"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Oswald, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:92
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Droid Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:87
+msgctxt "Droid Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Source Sans Pro, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:82
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "på"
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "Primærmeny"
+
+#: footer.php:21
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s"
+
+#: footer.php:19
+msgid "A Semantic Personal Publishing Platform"
+msgstr "En semantisk personlig publiseringsplatform"
+
+#: content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Prøv å søke."
+
+#: content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men intet passet til ditt søkeuttrykk. Vennligst prøv igjen med noen andre nøkkelord."
+
+#: content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: content-none.php:11
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: content-grid.php:26 content-page.php:25 content-testimonial.php:21
+#: image.php:53 inc/template-tags.php:75 inc/template-tags.php:99
+#: inc/template-tags.php:205 page-templates/front-page.php:28
+msgid "Edit"
+msgstr "endre"
+
+#: inc/template-tags.php:228
+msgid "Permalink to %s"
+msgstr "Permalenke til %s"
+
+#: content-aside.php:29 content-gallery.php:30 content-image.php:31
+#: content-link.php:28 content-page.php:19 content-quote.php:29
+#: content-video.php:29 content.php:36 image.php:73
+msgid "Pages:"
+msgstr "Sider:"
+
+#: content-aside.php:26 content-gallery.php:27 content-image.php:28
+#: content-link.php:25 content-quote.php:26 content-video.php:26 content.php:33
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Les videre <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#: comments.php:26 comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: comments.php:25 comments.php:37
+msgid "&larr; Older Comments"
+msgstr "&larr; Eldre kommentarer"
+
+#: comments.php:24 comments.php:36
+msgid "Comment navigation"
+msgstr "Kommentarnavigasjon"
+
+#: comments.php:17
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer om &ldquo;%2$s&rdquo;"
+
+#: archive-jetpack-testimonial.php:29
+msgid "Testimonials"
+msgstr "Tilbakemeldinger"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det ble tydeligvis ikke funnet noe her. Kanskje forsøke en av lenkene under eller et søk?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Auda! Den siden finnes ikke."

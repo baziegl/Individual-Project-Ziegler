@@ -1,0 +1,198 @@
+#toplevel_page_crio div.wp-menu-image img {
+	width: 20px;
+}
+
+.welcome-panel-column .crio-welcome-button.button.button-hero {
+  display: block;
+  text-align: center;
+  margin: 2em 0;
+}
+.welcome-panel-column-container .learning-item {
+  display: grid;
+  grid-template-columns: 79px 1fr;
+  grid-gap: 10px;
+  align-items: flex-start;
+}
+
+.welcome-panel-column-container .learning-item .learning-image {
+  margin: 1.33em 0 0;
+}
+
+.welcome-panel {
+    padding: 30px 10px;
+}
+
+.welcome-panel-content {
+  margin-right: 13px;
+}
+
+.welcome-panel-column-container .wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+  background-color: #fff;
+}
+.welcome-panel-column-container .wrapper p.box {
+  margin-top: 0;
+  margin-left: 89px; /* 79px image grid width + 10px grid padding. */
+}
+
+.welcome-panel-column-container .box {
+  border-radius: 5px;
+  padding: 0 20px;
+}
+
+.bgcrio-about-wrap > div:first-child {
+  background-image: url(../images/welcome/bg-crio-gradient.png), -webkit-gradient(linear, left top, right top, from(#f95c27), to(#9d7770));
+  background-image: url(../images/welcome/bg-crio-gradient.png), linear-gradient(to right, #f95c27, #9d7770);
+  color: #fff;
+  margin: -25px 0px 0px -40px;
+  padding: 15px 160px 15px 45px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bgcrio-about-wrap > div:first-child h1 {
+  color: #fff;
+  margin: 0px;
+}
+
+.bgcrio-about-wrap > div:first-child p {
+  margin-bottom: 0px;
+}
+
+.bgcrio-about-wrap .wp-badge {
+  background: url(../images/welcome/bg-crio-logo.png) no-repeat;
+  background-size: 100px 100px;
+  background-position: center 10px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  padding-top: 115px;
+  margin-top: 0px;
+}
+
+.welcome-panel-column h2 {
+  text-align: left;
+}
+
+.bgcrio-about-wrap .welcome-panel .two-col .welcome-panel-column:first-of-type {
+  width: calc( 50% - 15px);
+  padding-right: 15px;
+}
+
+.bgcrio-about-wrap .welcome-panel .two-col .welcome-panel-column:nth-of-type(2) {
+  width: 50%;
+}
+
+.bgcrio-about-wrap .two-col .col {
+  margin-top: 0px;
+}
+
+.bgcrio-about-wrap .two-col .col h2 {
+  text-align: left;
+}
+
+.bgcrio-about-wrap .four-col .welcome-panel-column {
+  min-width: unset;
+  width: 21%;
+  padding: 2%;
+  text-align: center;
+}
+
+.nowrap {
+  white-space: nowrap;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.welcome-panel > .welcome-panel-content:not(:first-child) {
+  margin-top: 15px;
+}
+
+/* When primary button is active, it causes sibling text to jump (happens in core too). */
+.wp-core-ui .button-primary:first-child.active,
+.wp-core-ui .button-primary:first-child.active:focus,
+.wp-core-ui .button-primary:first-child.active:hover,
+.wp-core-ui .button-primary:first-child:active {
+  vertical-align: baseline;
+}
+
+/**
+* Starter Content Messages.
+*
+* This section includes styles for the starter content messages container. By default, when a user
+* is installing starter content, no status messages are shown to the user. However, if there is an
+* error, the .starter-content-messages container will be shown and filled with error messages.
+*/
+.starter-content-messages {
+  border-top: 1px solid #ddd;
+  margin-top: 10px;
+}
+
+.starter-content-messages .starter-content-error div.error {
+  display: block !important;
+}
+
+/**
+* Styles for the mini connect prompt.
+*/
+div#container_boldgrid_api_key_notice {
+  max-width: 100%;
+}
+
+p#boldgrid_api_key_notice_message {
+  margin-left: 0px;
+}
+
+@media only screen and (min-width: 501px) and (max-width: 989px) {
+  .bgcrio-about-wrap .two-col .col {
+    max-width: calc( 50% - 25px) !important;
+    min-width: calc( 50% - 25px) !important;
+  }
+}
+
+@media only screen and (max-width: 782px) {
+  .bgcrio-about-wrap .four-col .welcome-panel-column {
+    width: 46%;
+  }
+  div.bgcrio-about-wrap .welcome-panel .two-col .welcome-panel-column:first-of-type,
+  div.bgcrio-about-wrap .welcome-panel .two-col .welcome-panel-column:nth-of-type(2) {
+    width: 100%;
+    padding: inherit;
+  }
+  .bgcrio-about-wrap .two-col .col {
+    /* max-width: 100%; */
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .bgcrio-about-wrap > div:first-child {
+    margin: -25px -20px 0px -20px;
+    padding: 20px;
+  }
+  .bgcrio-about-wrap > div:first-child h1 {
+    text-align: center;
+  }
+  .bgcrio-about-wrap .wp-badge {
+    margin-top: 15px;
+    margin-bottom: -20px;
+  }
+  div.bgcrio-about-wrap .welcome-panel .two-col .welcome-panel-column:first-of-type,
+  div.bgcrio-about-wrap .welcome-panel .two-col .welcome-panel-column:nth-of-type(2) {
+    width: 100%;
+    padding: inherit;
+  }
+  .bgcrio-about-wrap .four-col .welcome-panel-column {
+    width: 100%;
+  }
+  .bgcrio-about-wrap .four-col img {
+    float: left;
+    width: 40px;
+    margin-top: 8px;
+  }
+  .bgcrio-about-wrap .four-col p {
+    text-align: left;
+    float: right;
+    width: calc( 100% - 55px);
+  }
+}

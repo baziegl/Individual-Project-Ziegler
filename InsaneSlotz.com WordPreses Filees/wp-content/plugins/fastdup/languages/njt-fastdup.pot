@@ -1,0 +1,725 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: FastDup\n"
+"POT-Creation-Date: 2019-09-13 14:27+0700\n"
+"PO-Revision-Date: 2019-09-13 14:26+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: nta-duplicator.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: apps/node_modules/prettier/parser-html.js:1
+msgid "css/"
+msgstr ""
+
+#: apps/node_modules/prettier/parser-typescript.js:1
+msgid "Elapsed:: "
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs-parser/index.js:301
+#: apps/node_modules/webpack-cli/node_modules/yargs-parser/index.js:349
+#: apps/node_modules/yargs-parser/index.js:349
+#, javascript-format
+msgid "Not enough arguments following: %s"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs-parser/index.js:449
+#: apps/node_modules/webpack-cli/node_modules/yargs-parser/index.js:515
+#: apps/node_modules/yargs-parser/index.js:515
+#, javascript-format
+msgid "Invalid JSON config file: %s"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/usage.js:169
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:202
+#: apps/node_modules/yargs/lib/usage.js:202
+msgid "Commands:"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/usage.js:177
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/usage.js:407
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:218
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:453
+#: apps/node_modules/yargs/lib/usage.js:218
+#: apps/node_modules/yargs/lib/usage.js:453
+msgid "default:"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/usage.js:179
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:220
+#: apps/node_modules/yargs/lib/usage.js:220
+msgid "aliases:"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/usage.js:241
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:283
+#: apps/node_modules/yargs/lib/usage.js:283
+msgid "boolean"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/usage.js:242
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:284
+#: apps/node_modules/yargs/lib/usage.js:284
+msgid "count"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/usage.js:243
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/usage.js:244
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:285
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:286
+#: apps/node_modules/yargs/lib/usage.js:285
+#: apps/node_modules/yargs/lib/usage.js:286
+msgid "string"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/usage.js:245
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:287
+#: apps/node_modules/yargs/lib/usage.js:287
+msgid "array"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/usage.js:246
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:288
+#: apps/node_modules/yargs/lib/usage.js:288
+msgid "number"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/usage.js:250
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:292
+#: apps/node_modules/yargs/lib/usage.js:292
+msgid "required"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/usage.js:251
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:293
+#: apps/node_modules/yargs/lib/usage.js:293
+msgid "choices:"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/usage.js:270
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:312
+#: apps/node_modules/yargs/lib/usage.js:312
+msgid "Examples:"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/usage.js:385
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:431
+#: apps/node_modules/yargs/lib/usage.js:431
+msgid "generated-value"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/validation.js:26
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/validation.js:49
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/validation.js:29
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/validation.js:52
+#: apps/node_modules/yargs/lib/validation.js:29
+#: apps/node_modules/yargs/lib/validation.js:52
+#, javascript-format
+msgid "Not enough non-option arguments: got %s, need at least %s"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/validation.js:37
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/validation.js:40
+#: apps/node_modules/yargs/lib/validation.js:40
+#, javascript-format
+msgid "Too many non-option arguments: got %s, maximum of %s"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/validation.js:185
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/validation.js:147
+#: apps/node_modules/yargs/lib/validation.js:147
+msgid "Invalid values:"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/validation.js:188
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/validation.js:150
+#: apps/node_modules/yargs/lib/validation.js:150
+#, javascript-format
+msgid "Argument: %s, Given: %s, Choices: %s"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/validation.js:218
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/validation.js:180
+#: apps/node_modules/yargs/lib/validation.js:180
+#, javascript-format
+msgid "Argument check failed: %s"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/validation.js:283
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/validation.js:256
+#: apps/node_modules/yargs/lib/validation.js:256
+msgid "Implications failed:"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/validation.js:313
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/validation.js:295
+#: apps/node_modules/yargs/lib/validation.js:295
+#, javascript-format
+msgid "Arguments %s and %s are mutually exclusive"
+msgstr ""
+
+#: apps/node_modules/sass-graph/node_modules/yargs/lib/validation.js:332
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/validation.js:316
+#: apps/node_modules/yargs/lib/validation.js:316
+#, javascript-format
+msgid "Did you mean %s?"
+msgstr ""
+
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:91
+#: apps/node_modules/yargs/lib/usage.js:91
+msgid "Positionals:"
+msgstr ""
+
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:191
+#: apps/node_modules/webpack-cli/node_modules/yargs/lib/usage.js:193
+#: apps/node_modules/yargs/lib/usage.js:191
+#: apps/node_modules/yargs/lib/usage.js:193
+msgid "command"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/index.bundle.js:1
+msgid "not-basic"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/index.bundle.js:1
+msgid "invalid-input"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/index.bundle.js:1
+msgid "overflow"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "using url"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "_receiveInfo"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "info"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid " enabled transports"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "attempt"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "waiting for body"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "using timeout"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "transport url"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "_transportTimeout"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "_transportMessage"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "heartbeat"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "bad json"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "message"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "empty payload"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "_transportClose"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "_open"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "connected"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "_close"
+msgstr ""
+
+#: apps/node_modules/webpack-dev-server/client/sockjs.bundle.js:1
+msgid "disconnected"
+msgstr ""
+
+#: includes/Admin/Helper/ServerHelper.php:14
+msgid "Web Server"
+msgstr ""
+
+#: includes/Admin/Helper/ServerHelper.php:16
+msgid ""
+"Supported web servers: Nginx, Apache, LiteSpeed, Lighttpd, IIS, uWSGI ,"
+"WebServerX"
+msgstr ""
+
+#: includes/Admin/Helper/ServerHelper.php:21
+msgid "Open BaseDir"
+msgstr ""
+
+#: includes/Admin/Helper/ServerHelper.php:24
+msgid ""
+"If this [open_basedir] is enabled, it can cause some errors. In that case, "
+"please ask your host to disable it in the php.ini file."
+msgstr ""
+
+#: includes/Admin/Helper/ServerHelper.php:27
+msgid "PHP Version"
+msgstr ""
+
+#: includes/Admin/Helper/ServerHelper.php:29
+msgid "FastDup supports PHP version 5.3.0 or higher."
+msgstr ""
+
+#: includes/Admin/Helper/ServerHelper.php:35
+msgid "Max Execution Time"
+msgstr ""
+
+#: includes/Admin/Helper/ServerHelper.php:38
+msgid ""
+"If the [max_execution_time] value in the php.ini is too low, errors may "
+"occur. It is recommended to set timeout to 30 seconds or higher and value of "
+"0."
+msgstr ""
+
+#: includes/Admin/Helper/ServerHelper.php:46
+msgid ""
+"If ziparchive is not enabled, your source might be not zipped successfully."
+msgstr ""
+
+#: includes/Admin/Helper/ServerHelper.php:51
+msgid "Wordpress Version"
+msgstr ""
+
+#: includes/Admin/Helper/ServerHelper.php:54
+msgid ""
+"It is recommended to update your site to the latest version of WordPress. "
+"Old versions can cause errors or put your site at risk."
+msgstr ""
+
+#: includes/Admin/Helper/ServerHelper.php:58
+msgid "Folder"
+msgstr ""
+
+#: includes/Admin/Helper/ServerHelper.php:61
+msgid "This folder needs write permission."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/Admin/MetaBox.php:89 includes/Admin/MetaBox.php:90
+msgid "FastDup"
+msgstr ""
+
+#: includes/Admin/Package.php:295
+msgid "In Process"
+msgstr ""
+
+#: includes/Admin/Template.php:45 includes/Admin/Template.php:76
+msgid "Only Database"
+msgstr ""
+
+#: includes/Admin/Template.php:50 includes/Admin/Template.php:81
+msgid "Full Site"
+msgstr ""
+
+#: includes/Endpoint/PackageApi.php:134 includes/Endpoint/TemplateApi.php:217
+msgid "Delete Successfully!"
+msgstr ""
+
+#: includes/Endpoint/PackageApi.php:134 includes/Endpoint/TemplateApi.php:217
+msgid "Delete Unsuccessfully!"
+msgstr ""
+
+#: includes/Endpoint/PackageApi.php:155 includes/Endpoint/TemplateApi.php:233
+msgid "Delete Selected Successfully!"
+msgstr ""
+
+#: includes/Endpoint/PackageApi.php:178
+msgid "Built Package Successfully!"
+msgstr ""
+
+#: includes/Endpoint/PackageApi.php:178
+msgid "Built Package Unsuccessfully!"
+msgstr ""
+
+#: includes/Endpoint/PackageApi.php:241
+msgid "Download Successfully!"
+msgstr ""
+
+#: includes/Endpoint/PackageApi.php:241
+msgid "Download Unsuccessfully!"
+msgstr ""
+
+#: includes/Endpoint/TemplateApi.php:169
+msgid "Created Successfully!"
+msgstr ""
+
+#: includes/Endpoint/TemplateApi.php:169
+msgid "Created Unsuccessfully!"
+msgstr ""
+
+#: includes/Endpoint/TemplateApi.php:200
+msgid "Updated Successfully!"
+msgstr ""
+
+#: includes/Endpoint/TemplateApi.php:200
+msgid "Update Unsuccessfully!"
+msgstr ""
+
+#: includes/Endpoint/TemplateApi.php:233
+msgid "Delete Selected Unsuccessfully!"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:9
+msgid "Please refresh and try again."
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:12
+msgid "Name"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:13
+msgid "Created"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:14
+msgid "Size"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:15
+msgid "Status"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:16
+msgid "Action"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:17
+msgid "Edit"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:18
+msgid "Update"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:19
+msgid "Delete"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:20
+msgid "Cancel"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:21
+msgid "Clear"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:22
+msgid "Yes"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:23
+msgid "No"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:24
+msgid "Delete Selected"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:25
+msgid "This field is required"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:26
+msgid "Select all"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:28
+msgid "Packages"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:29
+msgid "Create Your First Package"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:30
+msgid "Installer File"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:31
+msgid "New Package"
+msgstr "Thêm Gói"
+
+#: includes/Translation/I18n_Admin.php:32
+msgid "No Package"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:33
+msgid "Download"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:34
+msgid "Processing"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:35
+msgid "Processing Build Package"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:36
+msgid "Built Package Successfully"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:37
+#: includes/Translation/I18n_Admin.php:88
+msgid "Archive"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:38
+msgid "Log"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:39
+msgid "Are you sure you want to delete this package?"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:40
+msgid "Build Package"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:41
+msgid "Please wait for the processing package to be done!"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:43
+msgid "General Requirements"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:44
+msgid "Processing. Please wait a moment :)"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:45
+msgid "Size Check"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:46
+msgid "Images more than 4MB and other files more than 150MB will be checked."
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:47
+msgid "Sub Sites"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:48
+msgid ""
+"A sub site is a site that is separate from this site but in the same "
+"directory. If not important, exclude these sub sites to make the zip process "
+"faster. If you want to back up that sub site, you should install this plugin "
+"on the sub site for backup."
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:49
+msgid "Name Check"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:50
+msgid ""
+"Special and Unicode characters can cause errors on some hosts. Just use this "
+"filter in case you failed to build your package. Please choose files which "
+"are not necessary or you can manually import them."
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:51
+msgid "Read Check"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:52
+msgid ""
+"There is an error occured while PHP is trying to read these items, so they "
+"will not be added in the package. You can contact your host to resolve this. "
+"In case these items are not important, please just skip them."
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:53
+msgid "Recursive Links"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:54
+msgid "Rescan"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:55
+msgid "Accept"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:57
+msgid "Zipping Files"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:58
+msgid "Cleaning Up"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:59
+msgid "Package Done"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:60
+msgid "Download Files"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:61
+msgid "Process Time:"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:62
+msgid "Installer"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:65
+msgid "Templates"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:66
+msgid "Template"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:67
+msgid "New Template"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:68
+msgid "Are you sure you want to delete this template?"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:69
+msgid "Run Now"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:70
+msgid "Template Name"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:71
+msgid "Package Name"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:72
+msgid "File Extensions:"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:73
+msgid "Files and Directories"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:74
+msgid "Archive Only The Database"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:75
+msgid "Enable File Filters (Switch OFF to archive all files and directories)"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:76
+msgid "Database"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:77
+msgid "Enable Table Filters"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:78
+msgid "(Switch OFF to archive all tables)"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:79
+msgid "Selected tables will not be added to the database script."
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:80
+msgid " Errors can be caused by missing excluded tables!"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:81
+msgid "Hover & select to navigate"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:82
+msgid "to exclude"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:83
+msgid "Excluded files & directories (relative to WordPress root)"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:84
+msgid ""
+"* The directories, extensions and files above will be excluded from the "
+"archived file"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:85
+msgid "Checked tables will not be added to the database script."
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:86
+msgid "Errors can be caused by missing excluded tables!"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:87
+msgid "Media"
+msgstr ""
+
+#: includes/Translation/I18n_Admin.php:89
+msgid "Add Template"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://ninjateam.org/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress Fastest Duplicator and Migration"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ninja Team"
+msgstr ""

@@ -1,0 +1,158 @@
+[
+    {
+        "name": "boldgrid/library",
+        "version": "2.13.3",
+        "version_normalized": "2.13.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/BoldGrid/library.git",
+            "reference": "066c8b68f7ca7ecf1f8769c3904dc85cb76fd7f4"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/BoldGrid/library/zipball/066c8b68f7ca7ecf1f8769c3904dc85cb76fd7f4",
+            "reference": "066c8b68f7ca7ecf1f8769c3904dc85cb76fd7f4",
+            "shasum": ""
+        },
+        "time": "2020-10-13T17:55:32+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Boldgrid\\Library\\Util\\": "src/Util"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0-or-later"
+        ],
+        "authors": [
+            {
+                "name": "Tim Elsass",
+                "email": "dev@tim.ph",
+                "homepage": "http://tim.ph",
+                "role": "Developer"
+            },
+            {
+                "name": "Rafael Ramos",
+                "homepage": "http://rafael-ramos.com",
+                "role": "Developer"
+            },
+            {
+                "name": "Joe Cartonia",
+                "email": "joec@boldgrid.com",
+                "homepage": "https://twitter.com/joemotocss",
+                "role": "Developer"
+            },
+            {
+                "name": "bwmarkle",
+                "role": "Developer"
+            }
+        ],
+        "description": "The BoldGrid Library for shared code used in official BoldGrid plugins and themes."
+    },
+    {
+        "name": "boldgrid/plugin-installer",
+        "version": "1.0.8",
+        "version_normalized": "1.0.8.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/BoldGrid/plugin-installer.git",
+            "reference": "e7aea70857a21037ed38afe8a3dbc687e047d9ff"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/BoldGrid/plugin-installer/zipball/e7aea70857a21037ed38afe8a3dbc687e047d9ff",
+            "reference": "e7aea70857a21037ed38afe8a3dbc687e047d9ff",
+            "shasum": ""
+        },
+        "time": "2020-09-22T17:41:46+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Boldgrid\\Library\\Plugin\\": "src/Plugin"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0-or-later"
+        ],
+        "authors": [
+            {
+                "name": "Joe C",
+                "email": "joec@boldgrid.com",
+                "role": "Developer"
+            },
+            {
+                "name": "Rafael Ramos",
+                "email": "rafaelh@boldgrid.com",
+                "homepage": "http://rafael-ramos.com",
+                "role": "Developer"
+            },
+            {
+                "name": "bwmarkle",
+                "email": "bradm@boldgrid.com",
+                "role": "Developer"
+            }
+        ],
+        "description": "The BoldGrid plugin installer used for official BoldGrid plugins."
+    },
+    {
+        "name": "boldgrid/wp-php-version-check",
+        "version": "1.1.0",
+        "version_normalized": "1.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/boldgrid/wp-php-version-check",
+            "reference": "072c97eec9e4b35db04aee8818bd35636da6c33f"
+        },
+        "time": "2017-05-03T22:51:07+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "license": [
+            "GPL2.0"
+        ],
+        "authors": [
+            {
+                "name": "Tim Elsass",
+                "email": "dev@tim.ph",
+                "homepage": "http://tim.ph",
+                "role": "Developer"
+            }
+        ],
+        "description": "Composer package to verify that WordPress and PHP versions satisfy a minimum version requirement."
+    },
+    {
+        "name": "collizo4sky/persist-admin-notices-dismissal",
+        "version": "1.4.3",
+        "version_normalized": "1.4.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/w3guy/persist-admin-notices-dismissal.git",
+            "reference": "2d7d8bb3cba631ad227c92296a4b675d7cbc71d7"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/w3guy/persist-admin-notices-dismissal/zipball/2d7d8bb3cba631ad227c92296a4b675d7cbc71d7",
+            "reference": "2d7d8bb3cba631ad227c92296a4b675d7cbc71d7",
+            "shasum": ""
+        },
+        "time": "2019-03-12T05:19:51+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "persist-admin-notices-dismissal.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "Collins Agbonghama",
+                "email": "me@w3guy.com"
+            }
+        ],
+        "description": "Simple library to persist dismissal of admin notices across pages in WordPress dashboard."
+    }
+]

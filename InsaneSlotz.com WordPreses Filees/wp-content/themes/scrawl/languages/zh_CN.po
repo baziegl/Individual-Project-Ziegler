@@ -1,0 +1,255 @@
+# Translation of WordPress.com - Themes - Scrawl in Chinese (China)
+# This file is distributed under the same license as the WordPress.com - Themes - Scrawl package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 08:46:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: WordPress.com - Themes - Scrawl\n"
+
+#: inc/wpcom-colors.php:37
+msgid "Main Accent"
+msgstr "主要强调"
+
+#: content.php:35
+msgid "Featured"
+msgstr "推荐"
+
+#: single.php:17
+msgid "Next post"
+msgstr "以后的日志"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "针对以下内容的搜索结果：%s"
+
+#: single.php:17
+msgid "Previous post"
+msgstr "以前的日志"
+
+#: inc/template-tags.php:275
+msgid "All %s posts"
+msgstr "所有 %s 文章"
+
+#: inc/template-tags.php:182
+msgid ", "
+msgstr "， "
+
+#: inc/template-tags.php:120
+msgid "Archives"
+msgstr "存档页"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:118
+msgid "%1$s: %2$s"
+msgstr "%1$s：%2$s"
+
+#: inc/template-tags.php:114
+msgid "Archives: %s"
+msgstr "存档：%s"
+
+#: inc/template-tags.php:111
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "聊天"
+
+#: inc/template-tags.php:109
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音频"
+
+#: inc/template-tags.php:107
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "状态"
+
+#: inc/template-tags.php:105
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "链接"
+
+#: inc/template-tags.php:103
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引语"
+
+#: inc/template-tags.php:101
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "视频"
+
+#: inc/template-tags.php:99
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "图像"
+
+#: inc/template-tags.php:97
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "相册"
+
+#: inc/template-tags.php:92
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/template-tags.php:95
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "日志"
+
+#: inc/template-tags.php:92
+msgid "Day: %s"
+msgstr "日：%s"
+
+#: inc/template-tags.php:90
+msgid "Month: %s"
+msgstr "月：%s"
+
+#: inc/template-tags.php:90
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/template-tags.php:88
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:88
+msgid "Year: %s"
+msgstr "年：%s"
+
+#: inc/template-tags.php:86
+msgid "Author: %s"
+msgstr "作者：%s"
+
+#: inc/template-tags.php:84
+msgid "Tag: %s"
+msgstr "标签：%s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "文章导航"
+
+#: inc/template-tags.php:82
+msgid "Category: %s"
+msgstr "分类：%s"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "较新的文章"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "较旧的文章"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "文章导航"
+
+#: inc/extras.php:103
+msgid "Cancel reply"
+msgstr "取消回复"
+
+#: inc/extras.php:67
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#: inc/customizer.php:20
+msgid "Theme"
+msgstr "主题"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "跳转到内容"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "主题: %1$s 作者 %2$s."
+
+#: functions.php:49 header.php:25
+msgid "Primary Menu"
+msgstr "主要菜单"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "由 %s 强力驱动"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:21
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读 <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:39 content.php:41
+msgid "1"
+msgstr "1"
+
+#: content-single.php:39 content.php:41
+msgid "%"
+msgstr "%"
+
+#: content-page.php:25 content-single.php:42 content.php:44
+msgid "Edit"
+msgstr "编辑"
+
+#: content-page.php:18 content-single.php:18 content.php:24
+msgid "Pages:"
+msgstr "页面："
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "看来我们无法找到您想查找的内容。或许搜索可以帮助您。"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "您的关键词返回的搜索结果为空，请换一组关键词重试。"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备发布您的第一篇文章？<a href=\"%1$s\">在此处开始</a>。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "没有找到任何内容"
+
+#: comments.php:50
+msgid "Newer Comments"
+msgstr "较新评论"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "评论功能被关闭。"
+
+#: comments.php:49
+msgid "Older Comments"
+msgstr "早前评论"
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:39
+msgid "Reply"
+msgstr "回复"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "一个有关“%2$s”的想法"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "这儿似乎什么都没有，试试搜索？"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "抱歉！无法找到该页面。"
